@@ -1,0 +1,8 @@
+[
+  {"id": "1-exercise-intro", "energy": "mid",  "text": "Next up, goblet squats. Hold the weight at your chest, sit back and down, and keep your chest proud. Let's go."},
+  {"id": "2-halfway",        "energy": "mid",  "text": "Halfway there. Stay smooth, keep breathing. You've got this."},
+  {"id": "3-rest",           "energy": "low",  "text": "Nice work. Shake it out, slow your breath. Up next, plank shoulder taps."},
+  {"id": "4-final-seconds",  "energy": "high", "text": "Ten seconds. Finish strong!"},
+  {"id": "5-circuit-break",  "energy": "low",  "text": "That's a circuit down. Grab some water, shake out your legs, and breathe. You earned it."},
+  {"id": "6-finish",         "energy": "mid",  "text": "And that's the workout. Great job today. Take a slow breath, and be proud of that one."}
+]
