@@ -79,6 +79,9 @@
   .segmented.locked { opacity: .5; pointer-events: none; }
   .setup-note { margin: 0; color: var(--stone500); font-size: 12px; }
   .voice-warn { margin: 0; color: var(--trail300); font-size: 12px; }
+  .voice-opts { display: flex; flex-wrap: wrap; gap: 6px 18px; align-items: center; }
+  .voice-opts .link-btn[aria-pressed="true"] { text-decoration: underline; }
+  .duck-note { margin: 0; color: var(--trail300); font-size: 12px; }
   .is-idle .setup { display: flex; }
   .is-idle .timer-row, .is-idle .bar { display: none; }
 
@@ -221,6 +224,11 @@
       </div>
       <p class="setup-note" id="ratioDetail"></p>
       <p class="voice-warn" id="voiceWarn" hidden></p>
+      <div class="voice-opts">
+        <button type="button" class="link-btn" id="boostBtn" aria-pressed="true"></button>
+        <button type="button" class="link-btn" id="duckBtn" aria-pressed="false"></button>
+      </div>
+      <p class="duck-note" id="duckNote" hidden></p>
     </div>
 
     <div class="upnext-head">
@@ -643,6 +651,46 @@ var EXERCISE_VIDEO = {
     catch (e) { try { actx = new AC(); } catch (e2) { actx = null; } }
     return actx;
   }
+  // ---- Voice level: a gain stage into a limiter, so the coach sits above music without clipping ----
+  var BOOST_GAIN = 1.3; // the limiter adds some makeup gain, so this nets about +3.6 dB (clips are -18 LUFS, so about -14.4); measured peaks stay under full scale
+  var boostOn = true, duckOn = false, outGain = null, outComp = null;
+  function prefGet(k, d) { try { var v = localStorage.getItem(k); return v === null ? d : v; } catch (e) { return d; } }
+  function prefSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+  boostOn = prefGet("nth.boost", "1") === "1";
+  duckOn = prefGet("nth.duck", "0") === "1";
+  function outNode(c) {
+    if (!outGain) {
+      try {
+        outGain = c.createGain();
+        outComp = c.createDynamicsCompressor();
+        outComp.threshold.value = -3; outComp.knee.value = 0; outComp.attack.value = 0.002; outComp.release.value = 0.12;
+        outGain.connect(outComp); outComp.connect(c.destination);
+        applyBoost();
+      } catch (e) { outGain = null; return c.destination; }
+    }
+    return outGain;
+  }
+  function applyBoost() {
+    if (!outGain) return;
+    outGain.gain.value = boostOn ? BOOST_GAIN : 1;
+    outComp.ratio.value = boostOn ? 20 : 1; // ratio 1 = the limiter does nothing when boost is off
+  }
+  // ---- Music ducking (experimental): ask the browser to treat each voice line as a short, "transient" sound ----
+  var duckTimer = null, duckState = "ambient", duckSwitches = 0;
+  function setSessionType(type) {
+    try { if (navigator.audioSession && navigator.audioSession.type !== type) { navigator.audioSession.type = type; duckSwitches++; } } catch (e) {}
+    duckState = type;
+  }
+  function duckStart() {
+    if (!duckOn) return;
+    clearTimeout(duckTimer); duckTimer = null;
+    if (duckState !== "transient") setSessionType("transient");
+  }
+  function duckEnd() {
+    if (!duckOn || duckState !== "transient") return;
+    clearTimeout(duckTimer);
+    duckTimer = setTimeout(function() { duckTimer = null; setSessionType("ambient"); }, 700);
+  }
   function unlockAudio() {
     if (audioUnlocked) return;
     audioUnlocked = true;
@@ -849,7 +897,8 @@ var EXERCISE_VIDEO = {
     if (!c) { startChainEl(ids, token); return; }
     var i = 0;
     function next() {
-      if (token !== playToken || i >= ids.length) return;
+      if (token !== playToken) return;
+      if (i >= ids.length) { duckEnd(); return; }
       var id = ids[i++];
       var ready = (c.state === "running") ? Promise.resolve() : Promise.resolve(c.resume()).catch(function() {});
       ready.then(function() { return clipBufferTimed(id, 2500); }).then(function(buf) {
@@ -857,7 +906,7 @@ var EXERCISE_VIDEO = {
         if (!buf) { speakFallback(id, next); return; }
         if (ids[i]) clipBuffer(ids[i]);
         var src = c.createBufferSource();
-        src.buffer = buf; src.connect(c.destination);
+        src.buffer = buf; src.connect(outNode(c)); duckStart();
         curSrc = src; curId = id; curPlaying = true; curEnd = next; curStartAt = c.currentTime; curDur = buf.duration;
         src.onended = function() {
           if (curSrc !== src) return;
@@ -898,6 +947,7 @@ var EXERCISE_VIDEO = {
     if (curSrc) { var s0 = curSrc; curSrc = null; s0.onended = null; try { s0.stop(); } catch (e) {} }
     audioEls.forEach(function(el) { el.onended = null; el.onerror = null; try { el.pause(); } catch (e) {} });
     try { if ("speechSynthesis" in window) window.speechSynthesis.cancel(); } catch (e) {}
+    duckEnd();
   }
   function stopAudio() { stopAudioNow(); }
   function testVoice() {
@@ -1457,6 +1507,26 @@ var EXERCISE_VIDEO = {
   voiceIconBtn.addEventListener("pointercancel", voicePressCancel);
   voiceIconBtn.addEventListener("contextmenu", function(e) { e.preventDefault(); });
   setVoiceOn(voiceOn);
+  var boostBtn = document.getElementById("boostBtn"), duckBtn = document.getElementById("duckBtn"), duckNote = document.getElementById("duckNote");
+  function renderVoiceOpts() {
+    boostBtn.textContent = "Voice boost: " + (boostOn ? "On" : "Off");
+    boostBtn.setAttribute("aria-pressed", boostOn ? "true" : "false");
+    duckBtn.textContent = "Duck music (beta): " + (duckOn ? "On" : "Off");
+    duckBtn.setAttribute("aria-pressed", duckOn ? "true" : "false");
+    duckNote.hidden = !duckOn;
+    duckNote.textContent = (navigator.audioSession
+      ? "Experimental: asks your phone to lower the music while the coach talks. If the music stops or nothing changes, turn this off."
+      : "This browser doesn't support the ducking hint, so nothing will change.");
+  }
+  boostBtn.addEventListener("click", function() {
+    boostOn = !boostOn; prefSet("nth.boost", boostOn ? "1" : "0"); applyBoost(); renderVoiceOpts(); unlockAudio(); if (voiceOn) testVoice();
+  });
+  duckBtn.addEventListener("click", function() {
+    duckOn = !duckOn; prefSet("nth.duck", duckOn ? "1" : "0");
+    if (!duckOn) { clearTimeout(duckTimer); duckTimer = null; if (duckState !== "ambient") setSessionType("ambient"); }
+    renderVoiceOpts(); unlockAudio(); if (voiceOn) testVoice();
+  });
+  renderVoiceOpts();
   prefetchVoice();
   
 

@@ -48,7 +48,7 @@ with sync_playwright() as p:
     errs=[]; pg.on('pageerror',lambda e:errs.append(str(e)))
     pg.on('console',lambda m: errs.append('console:'+m.text) if m.type=='error' else None)
     pg.clock.install(); pg.add_init_script(INIT)
-    pg.goto('http://127.0.0.1:8765/index14.html'); pg.clock.run_for(1500)
+    pg.goto('http://127.0.0.1:8765/index15.html'); pg.clock.run_for(1500)
     for sel in sys.argv[2:]: pg.click(sel)
     pg.clock.run_for(300)
     pg.click('#primaryBtn')
