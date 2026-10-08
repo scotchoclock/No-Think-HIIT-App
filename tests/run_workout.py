@@ -4,6 +4,8 @@ D=json.load(open('durations.json')); T={c['id']:c['text'] for c in json.load(ope
 srv=subprocess.Popen(['python3','-m','http.server','8765','--bind','127.0.0.1'],stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
 time.sleep(1)
 INIT="""
+(function(){ if(window.speechSynthesis){ var o=speechSynthesis.speak.bind(speechSynthesis); speechSynthesis.speak=function(u){ window.__log.push({t:Date.now(),ev:'play',id:'TTS-FALLBACK:'+(u&&u.text||'').slice(0,50)}); }; } })();
+
 window.__log=[]; window.__t0=null;
 window.__D=%s;
 (function(){
@@ -46,7 +48,7 @@ with sync_playwright() as p:
     errs=[]; pg.on('pageerror',lambda e:errs.append(str(e)))
     pg.on('console',lambda m: errs.append('console:'+m.text) if m.type=='error' else None)
     pg.clock.install(); pg.add_init_script(INIT)
-    pg.goto('http://127.0.0.1:8765/index13.html'); pg.clock.run_for(1500)
+    pg.goto('http://127.0.0.1:8765/index14.html'); pg.clock.run_for(1500)
     for sel in sys.argv[2:]: pg.click(sel)
     pg.clock.run_for(300)
     pg.click('#primaryBtn')

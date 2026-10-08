@@ -37,8 +37,9 @@ Published artifact versions map to commits. Commit messages start with the artif
 | v40 | Fix: "one" of the 3-2-1 count cut off at transitions |
 | v41 | 3 s "Get ready" lead-in, 18 s prep, clip loudness leveling |
 | v42 | Music keeps playing under voice (Web Audio), no repeated moves in a workout |
+| v43 | Re-recorded countdown, final-ten, "go" and halfway clips; a different break line per circuit ("circuit 2 of 3 done, one to go"); timing clips stay decoded all workout; move picker can no longer repeat a move when a muscle group runs dry |
 
 ## Known open items
 
-- New countdown/halfway/"go" clips and per-circuit break lines (`manifest2.json`) are scripted but not yet rendered or wired in.
 - Music mixing is untested on real phones. iPhone silent switch will mute the voice.
+- The re-recorded clips are leveled and tested for timing, but nobody has listened to them on a phone yet.

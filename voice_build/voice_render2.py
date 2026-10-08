@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""
+r"""
 Render the REVISED clips (calmer countdown / ten-second / go / halfway lines, and circuit-aware break lines) with OpenAI gpt-4o-mini-tts (voice: marin).
 Run from the No Think HIIT folder, in the PowerShell window that has OPENAI_API_KEY set:
     py voice_build\voice_render2.py
-Safe to re-run: clips that already exist are skipped. ~476 clips, roughly $0.60.
+Safe to re-run: clips that already exist are skipped. 46 clips, a few cents.
 Output: voice_build\raw2\<clip-id>.mp3
 """
 import json, os, sys, time, threading, urllib.request, urllib.error
