@@ -1,13 +1,14 @@
 import subprocess,time,json,collections
 from playwright.sync_api import sync_playwright
 srv=subprocess.Popen(['python3','-m','http.server','8766','--bind','127.0.0.1'],stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL); time.sleep(1)
+breaks_all=set()
 with sync_playwright() as p:
     b=p.chromium.launch(); pg=b.new_page()
     errs=[]; pg.on('pageerror',lambda e:errs.append(str(e)))
-    pg.goto('http://127.0.0.1:8766/index13.html'); pg.wait_for_timeout(1500)
+    pg.goto('http://127.0.0.1:8766/index14.html'); pg.wait_for_timeout(1500)
     for preset in ('1','2'):
         pg.click("[data-preset='%s']"%preset)
-        dups=0; n=300; worst=collections.Counter(); sizes=set(); breaks=set()
+        dups=0; n=700; worst=collections.Counter(); sizes=set(); breaks=set()
         for i in range(n):
             pg.click('#shuffleBtn')
             seq=pg.evaluate("window.__seq().map(function(s){return {t:s.type,n:s.name,d:s.circuitDone,T:s.circuitTotal,dur:s.dur}})")
@@ -17,7 +18,7 @@ with sync_playwright() as p:
             if d: dups+=1; worst.update(d)
             sizes.add(len(moves))
             for s in seq:
-                if s['t']=='roundrest': breaks.add((s['d'],s['T'],s['dur']))
+                if s['t']=='roundrest': breaks.add((s['d'],s['T'],s['dur'])); breaks_all.add((s['d'],s['T']))
         print('preset',preset,'workouts with a repeated move:',dups,'/',n,'move counts',sizes,'breaks',sorted(breaks),dict(worst))
-    print(errs); b.close()
+    VB=pg.evaluate('VBRK'); miss=[k for k in breaks_all if (str(k[0])+'of'+str(k[1])) not in VB]; print('break keys without custom clips:',miss); print(errs); b.close()
 srv.terminate()
