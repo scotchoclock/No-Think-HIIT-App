@@ -38,8 +38,10 @@ Published artifact versions map to commits. Commit messages start with the artif
 | v41 | 3 s "Get ready" lead-in, 18 s prep, clip loudness leveling |
 | v42 | Music keeps playing under voice (Web Audio), no repeated moves in a workout |
 | v43 | Re-recorded countdown, final-ten, "go" and halfway clips; a different break line per circuit ("circuit 2 of 3 done, one to go"); timing clips stay decoded all workout; move picker can no longer repeat a move when a muscle group runs dry |
+| v44 | Voice boost (+3.6 dB through a limiter, on by default) and an experimental "Duck music (beta)" toggle that asks the phone to lower music while the coach talks |
 
 ## Known open items
 
 - Music mixing is untested on real phones. iPhone silent switch will mute the voice.
 - The re-recorded clips are leveled and tested for timing, but nobody has listened to them on a phone yet.
+- Music ducking is a browser hint (`audioSession.type = "transient"`), not a guarantee. Being tested on a Pixel; iPhone WebKit may ignore it.

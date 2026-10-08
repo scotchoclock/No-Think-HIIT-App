@@ -5,7 +5,7 @@ breaks_all=set()
 with sync_playwright() as p:
     b=p.chromium.launch(); pg=b.new_page()
     errs=[]; pg.on('pageerror',lambda e:errs.append(str(e)))
-    pg.goto('http://127.0.0.1:8766/index14.html'); pg.wait_for_timeout(1500)
+    pg.goto('http://127.0.0.1:8766/index15.html'); pg.wait_for_timeout(1500)
     for preset in ('1','2'):
         pg.click("[data-preset='%s']"%preset)
         dups=0; n=700; worst=collections.Counter(); sizes=set(); breaks=set()
