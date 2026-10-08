@@ -1,0 +1,278 @@
+[
+{
+"id": "g.fin2.1",
+"cat": "fin2",
+"text": "Ten seconds left. You've got this.",
+"energy": "mid"
+},
+{
+"id": "g.fin2.2",
+"cat": "fin2",
+"text": "Ten to go. Keep it moving, you're nearly there.",
+"energy": "mid"
+},
+{
+"id": "g.fin2.3",
+"cat": "fin2",
+"text": "Last ten seconds. Push through, you're almost there.",
+"energy": "mid"
+},
+{
+"id": "g.fin2.4",
+"cat": "fin2",
+"text": "Ten seconds. Give me everything you've got.",
+"energy": "mid"
+},
+{
+"id": "g.fin2.5",
+"cat": "fin2",
+"text": "Almost there. Just ten more seconds.",
+"energy": "mid"
+},
+{
+"id": "g.fin2.6",
+"cat": "fin2",
+"text": "Ten seconds to go. Keep breathing, keep moving.",
+"energy": "mid"
+},
+{
+"id": "g.fin2.7",
+"cat": "fin2",
+"text": "Final ten. Nice and strong, you're doing great.",
+"energy": "mid"
+},
+{
+"id": "g.fin2.8",
+"cat": "fin2",
+"text": "Ten seconds left. Hold that form, finish it off.",
+"energy": "mid"
+},
+{
+"id": "g.cnt2.1",
+"cat": "cnt2",
+"text": "Three. Two. One.",
+"energy": "mid"
+},
+{
+"id": "g.cnt2.2",
+"cat": "cnt2",
+"text": "Three... two... one.",
+"energy": "mid"
+},
+{
+"id": "g.cnt2.3",
+"cat": "cnt2",
+"text": "Three, two, one.",
+"energy": "mid"
+},
+{
+"id": "g.cnt2.4",
+"cat": "cnt2",
+"text": "And three, two, one.",
+"energy": "mid"
+},
+{
+"id": "g.cnt2.5",
+"cat": "cnt2",
+"text": "Three. Two. One. Go.",
+"energy": "mid"
+},
+{
+"id": "g.cnt2.6",
+"cat": "cnt2",
+"text": "Here we go. Three, two, one.",
+"energy": "mid"
+},
+{
+"id": "g.go2.1",
+"cat": "go2",
+"text": "Here we go!",
+"energy": "mid"
+},
+{
+"id": "g.go2.2",
+"cat": "go2",
+"text": "Let's move!",
+"energy": "mid"
+},
+{
+"id": "g.go2.3",
+"cat": "go2",
+"text": "Time to work!",
+"energy": "mid"
+},
+{
+"id": "g.go2.4",
+"cat": "go2",
+"text": "And go!",
+"energy": "mid"
+},
+{
+"id": "g.go2.5",
+"cat": "go2",
+"text": "Let's get it!",
+"energy": "mid"
+},
+{
+"id": "g.go2.6",
+"cat": "go2",
+"text": "Alright, go!",
+"energy": "mid"
+},
+{
+"id": "g.go2.7",
+"cat": "go2",
+"text": "Let's go!",
+"energy": "mid"
+},
+{
+"id": "g.go2.8",
+"cat": "go2",
+"text": "Go time!",
+"energy": "mid"
+},
+{
+"id": "g.half2.1",
+"cat": "half2",
+"text": "Halfway there. Stay smooth, keep breathing.",
+"energy": "mid"
+},
+{
+"id": "g.half2.2",
+"cat": "half2",
+"text": "Halfway. Keep it clean, you've got this.",
+"energy": "mid"
+},
+{
+"id": "g.half2.3",
+"cat": "half2",
+"text": "Right on track. Halfway done.",
+"energy": "mid"
+},
+{
+"id": "g.half2.4",
+"cat": "half2",
+"text": "Half done. Stay tall and keep moving.",
+"energy": "mid"
+},
+{
+"id": "g.half2.5",
+"cat": "half2",
+"text": "That's halfway. Stay steady, stay smooth.",
+"energy": "mid"
+},
+{
+"id": "g.half2.6",
+"cat": "half2",
+"text": "Halfway! Keep the rhythm going, you're doing great.",
+"energy": "mid"
+},
+{
+"id": "b.1of3.1",
+"cat": "brk",
+"text": "Circuit one done. Two to go. Grab some water, shake out your legs, and breathe.",
+"energy": "mid"
+},
+{
+"id": "b.1of3.2",
+"cat": "brk",
+"text": "First circuit finished, with two still to come. Take a drink and let your breath settle.",
+"energy": "mid"
+},
+{
+"id": "b.2of3.1",
+"cat": "brk",
+"text": "Two circuits down, one to go. Water, deep breaths, loosen up.",
+"energy": "mid"
+},
+{
+"id": "b.2of3.2",
+"cat": "brk",
+"text": "Second circuit done. Just one more left. Shake it out and breathe.",
+"energy": "mid"
+},
+{
+"id": "b.3of3.1",
+"cat": "brk",
+"text": "That's all three circuits done! Take a quick breather, then a short finisher.",
+"energy": "mid"
+},
+{
+"id": "b.3of3.2",
+"cat": "brk",
+"text": "Circuit three complete. That was the last one. Catch your breath, the finisher is next.",
+"energy": "mid"
+},
+{
+"id": "b.1of6.1",
+"cat": "brk",
+"text": "Circuit one done. Five to go. Grab some water, shake it out, and ease into it.",
+"energy": "mid"
+},
+{
+"id": "b.1of6.2",
+"cat": "brk",
+"text": "First circuit finished, with five still to come. Take a drink and breathe.",
+"energy": "mid"
+},
+{
+"id": "b.2of6.1",
+"cat": "brk",
+"text": "Two circuits down, four to go. Water, deep breaths, loosen up.",
+"energy": "mid"
+},
+{
+"id": "b.2of6.2",
+"cat": "brk",
+"text": "Second circuit done. Four more to come. Shake it out and breathe.",
+"energy": "mid"
+},
+{
+"id": "b.3of6.1",
+"cat": "brk",
+"text": "Three circuits done. That's lap one finished, and you're halfway there! Take a drink and breathe.",
+"energy": "mid"
+},
+{
+"id": "b.3of6.2",
+"cat": "brk",
+"text": "Lap one complete. Three circuits down, three to go. Water, deep breaths, you earned it.",
+"energy": "mid"
+},
+{
+"id": "b.4of6.1",
+"cat": "brk",
+"text": "Four circuits down, two to go. Lap two is going well. Take a drink and breathe.",
+"energy": "mid"
+},
+{
+"id": "b.4of6.2",
+"cat": "brk",
+"text": "Fourth circuit done. Two more to come. Shake out your legs and reset.",
+"energy": "mid"
+},
+{
+"id": "b.5of6.1",
+"cat": "brk",
+"text": "Five circuits down, just one to go. Grab some water and get ready for the last one.",
+"energy": "mid"
+},
+{
+"id": "b.5of6.2",
+"cat": "brk",
+"text": "Fifth circuit finished. One circuit left. Deep breath, you're nearly there.",
+"energy": "mid"
+},
+{
+"id": "b.6of6.1",
+"cat": "brk",
+"text": "Circuit six complete. That was the last one! Take a quick breather, then a short finisher.",
+"energy": "mid"
+},
+{
+"id": "b.6of6.2",
+"cat": "brk",
+"text": "That's every circuit done! Catch your breath, the finisher is next.",
+"energy": "mid"
+}
+]
