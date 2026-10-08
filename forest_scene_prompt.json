@@ -1,0 +1,11 @@
+[
+  {
+    "id": "bg-01",
+    "order": 0,
+    "name": "Forest scene",
+    "category": "Background",
+    "equipment": "None",
+    "status": "pending",
+    "prompt": "An empty forest trail with no people, no figures, and no animals anywhere in the frame: a packed-earth path winding away between tall evergreen trees, sunlight filtering through the canopy in soft dappled patches across the ground, moss and ferns along the edges, a gentle river visible through the trees in the background, light morning mist drifting slowly between the trunks. Very subtle ambient motion only: leaves and branches swaying slightly in a light breeze, mist drifting, light patches shimmering gently on the path. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field, filmed from a single fixed camera position at eye level looking down the trail \u2014 the camera never moves, pans, or zooms. Calm and still enough to loop seamlessly. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  }
+]

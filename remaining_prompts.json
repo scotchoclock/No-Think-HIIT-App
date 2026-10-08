@@ -1,0 +1,416 @@
+[
+  {
+    "id": "ex-01",
+    "order": 1,
+    "name": "Arm circles",
+    "category": "Warm-up",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs arm circles: arms extended straight out to the sides, making continuous circles, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-02",
+    "order": 2,
+    "name": "Jumping jacks",
+    "category": "Warm-up",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs jumping jacks: jumping the feet apart while raising both arms overhead, then back together, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-03",
+    "order": 3,
+    "name": "Torso twists",
+    "category": "Warm-up",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs standing torso twists: rotating the upper body side to side with arms relaxed or bent at the elbows, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-04",
+    "order": 4,
+    "name": "Leg swings",
+    "category": "Warm-up",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs standing leg swings: holding onto a trailside tree trunk for balance and swinging one leg forward and back, then side to side, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-05",
+    "order": 5,
+    "name": "Push-ups",
+    "category": "Upper",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs standard push-ups: hands under the shoulders, lowering the chest toward the ground and pressing back up, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-06",
+    "order": 6,
+    "name": "Burpees",
+    "category": "Upper",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs burpees: dropping into a squat, kicking back into a plank, a push-up, then jumping up with arms overhead, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-07",
+    "order": 7,
+    "name": "Incline push-ups",
+    "category": "Upper",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs incline push-ups with both hands braced on the elevated surface, body at an angle, beside a forest trail, using a flat-topped boulder (or a sturdy fallen log) for elevation, sunlight filtering through the canopy in dappled patches, tall evergreen trees around them, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-08",
+    "order": 8,
+    "name": "Diamond push-ups",
+    "category": "Upper",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs diamond push-ups with hands close together under the chest, thumbs and index fingers forming a diamond shape, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-09",
+    "order": 9,
+    "name": "Pike push-ups",
+    "category": "Upper",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs pike push-ups: hips raised high into an inverted V, lowering the head toward the ground between the hands, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-10",
+    "order": 10,
+    "name": "Tricep dips",
+    "category": "Upper",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs tricep dips using the elevated surface behind them, lowering and pressing the body back up with the arms, beside a forest trail, using a flat-topped boulder (or a sturdy fallen log) for elevation, sunlight filtering through the canopy in dappled patches, tall evergreen trees around them, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-11",
+    "order": 11,
+    "name": "Bent-over dumbbell rows",
+    "category": "Upper",
+    "equipment": "Dumbbell",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs bent-over dumbbell rows: hinged forward at the hips holding a dumbbell in each hand, rowing the elbows back, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-12",
+    "order": 12,
+    "name": "Dumbbell thrusters",
+    "category": "Upper",
+    "equipment": "Dumbbell",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs dumbbell thrusters: a front squat with dumbbells at the shoulders that explodes straight into an overhead press, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-13",
+    "order": 13,
+    "name": "Dumbbell shoulder press",
+    "category": "Upper",
+    "equipment": "Dumbbell",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs a standing dumbbell shoulder press, pressing dumbbells overhead from shoulder height, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-14",
+    "order": 14,
+    "name": "Dumbbell floor press",
+    "category": "Upper",
+    "equipment": "Dumbbell",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs a dumbbell floor press lying on their back on the ground, pressing dumbbells straight up from chest level, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-15",
+    "order": 15,
+    "name": "Dumbbell curl to press",
+    "category": "Upper",
+    "equipment": "Dumbbell",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs a dumbbell curl into an overhead press: curling the dumbbells to the shoulders, then pressing them overhead, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-16",
+    "order": 16,
+    "name": "Dumbbell hammer curls",
+    "category": "Upper",
+    "equipment": "Dumbbell",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs dumbbell hammer curls with palms facing inward, curling the dumbbells up, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-17",
+    "order": 17,
+    "name": "Dumbbell lateral raises",
+    "category": "Upper",
+    "equipment": "Dumbbell",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs dumbbell lateral raises, raising the dumbbells out to the sides to shoulder height with a slight elbow bend, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-18",
+    "order": 18,
+    "name": "Mountain climbers",
+    "category": "Core",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs mountain climbers in a high plank, driving the knees alternately toward the chest at speed, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-19",
+    "order": 19,
+    "name": "Plank shoulder taps",
+    "category": "Core",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs a plank position tapping the opposite shoulder with each hand, alternating sides, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-20",
+    "order": 20,
+    "name": "High knees",
+    "category": "Core",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs high knees: running in place and driving the knees up toward waist height, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-21",
+    "order": 21,
+    "name": "Bear crawl holds",
+    "category": "Core",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs a bear crawl hold: hovering on hands and feet with the knees just off the ground, spine flat, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-22",
+    "order": 22,
+    "name": "Plank hold",
+    "category": "Core",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs a static forearm plank hold, body in a straight line, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-23",
+    "order": 23,
+    "name": "Side plank holds",
+    "category": "Core",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs a side plank hold, propped on one forearm with the hips lifted and body in a straight line, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-24",
+    "order": 24,
+    "name": "Russian twists",
+    "category": "Core",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs seated Russian twists, leaning back slightly with feet off the ground, rotating the torso side to side, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-25",
+    "order": 25,
+    "name": "Flutter kicks",
+    "category": "Core",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs flutter kicks lying on their back, legs straight and alternately kicking up and down a few inches off the ground, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-26",
+    "order": 26,
+    "name": "Bicycle crunches",
+    "category": "Core",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs bicycle crunches lying on their back, alternately bringing elbow to opposite knee in a pedaling motion, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-27",
+    "order": 27,
+    "name": "Dead bugs",
+    "category": "Core",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs dead bugs lying on their back with arms and legs raised, slowly extending the opposite arm and leg toward the ground, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-28",
+    "order": 28,
+    "name": "Superman holds",
+    "category": "Core",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs a Superman hold lying face down, lifting the arms, chest, and legs off the ground at the same time, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-29",
+    "order": 29,
+    "name": "Renegade rows",
+    "category": "Core",
+    "equipment": "Dumbbell",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs renegade rows: in a high plank with a dumbbell in each hand, rowing one dumbbell up to the ribs at a time, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-30",
+    "order": 30,
+    "name": "Dumbbell suitcase carries",
+    "category": "Core",
+    "equipment": "Dumbbell",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs a dumbbell suitcase carry, walking while holding a single dumbbell down at one side, walking along a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees alongside the trail, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-32",
+    "order": 31,
+    "name": "Reverse lunges",
+    "category": "Lower",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs reverse lunges, stepping one leg back into a lunge and returning to standing, alternating legs, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-33",
+    "order": 32,
+    "name": "Jumping lunges",
+    "category": "Lower",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs jumping lunges, explosively switching the front and back leg mid-air between reps, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-34",
+    "order": 33,
+    "name": "Glute bridges",
+    "category": "Lower",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs glute bridges lying on the back with knees bent, driving the hips up, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-35",
+    "order": 34,
+    "name": "Skater hops",
+    "category": "Lower",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs skater hops, leaping laterally side to side and landing on one leg each time, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-36",
+    "order": 35,
+    "name": "Jump squats",
+    "category": "Lower",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs jump squats, dropping into a squat and exploding straight up into a jump, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-37",
+    "order": 36,
+    "name": "Curtsy lunges",
+    "category": "Lower",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs curtsy lunges, stepping one leg diagonally behind the other into a curtsy-style lunge, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-38",
+    "order": 37,
+    "name": "Lateral lunges",
+    "category": "Lower",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs lateral lunges, stepping one leg out to the side and bending that knee while the other leg stays straight, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-39",
+    "order": 38,
+    "name": "Single-leg glute bridges",
+    "category": "Lower",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs single-leg glute bridges, driving the hips up with one foot on the ground and the other leg extended, in a flat mossy clearing just off a forest trail, sunlight filtering through the canopy in dappled patches, tall evergreen trees surrounding the clearing, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-40",
+    "order": 39,
+    "name": "Box jumps",
+    "category": "Lower",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs box jumps onto the elevated surface, landing softly with both feet, beside a forest trail, using a flat-topped boulder (or a sturdy fallen log) for elevation, sunlight filtering through the canopy in dappled patches, tall evergreen trees around them, a gentle river visible through the trees nearby, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-41",
+    "order": 40,
+    "name": "Broad jumps",
+    "category": "Lower",
+    "equipment": "Bodyweight",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs broad jumps, a forward standing long jump landing in a squat, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-42",
+    "order": 41,
+    "name": "Dumbbell goblet squats",
+    "category": "Lower",
+    "equipment": "Dumbbell",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs a dumbbell goblet squat, holding one dumbbell vertically at the chest while squatting, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-43",
+    "order": 42,
+    "name": "Dumbbell reverse lunges",
+    "category": "Lower",
+    "equipment": "Dumbbell",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs dumbbell reverse lunges, holding a dumbbell in each hand while stepping back into a lunge, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-44",
+    "order": 43,
+    "name": "Weighted step-back lunges",
+    "category": "Lower",
+    "equipment": "Dumbbell",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs weighted step-back lunges holding dumbbells at the sides, stepping back into a lunge and returning to standing, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-45",
+    "order": 44,
+    "name": "Dumbbell deadlifts",
+    "category": "Lower",
+    "equipment": "Dumbbell",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs dumbbell deadlifts, hinging at the hips to lower the dumbbells toward the ground, then standing tall, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-46",
+    "order": 45,
+    "name": "Dumbbell swings",
+    "category": "Lower",
+    "equipment": "Dumbbell",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs a dumbbell swing, kettlebell-style with both hands on one dumbbell, hinging and swinging it up to chest height, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  },
+  {
+    "id": "ex-47",
+    "order": 46,
+    "name": "Dumbbell Romanian deadlifts",
+    "category": "Lower",
+    "equipment": "Dumbbell",
+    "status": "pending",
+    "prompt": "A trail runner, wearing loose, fully-covering outdoor running layers (long sleeves, leggings or joggers) and trail running shoes, performs dumbbell Romanian deadlifts, a stiff-legged hip hinge lowering the dumbbells down the front of the legs, paused on a forest trail, sunlight filtering through the canopy in dappled patches across the path, tall evergreen trees on both sides, a gentle river visible through the trees in the background, morning mist. Cinematic, polished outdoor lifestyle video, natural light, shallow depth of field. They perform it twice: first facing the camera directly, then turned to a side profile so their posture is visible from both angles. Vertical video, about 6 seconds, one continuous shot, photorealistic, G-rated, no on-screen text or watermark."
+  }
+]
