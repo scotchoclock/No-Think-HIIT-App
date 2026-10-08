@@ -1,0 +1,29 @@
+# Generated media: large (700 MB+) and regenerable from the scripts + prompts
+output/
+output_small/
+loops/
+Claude outputs/
+voice_audition/out/
+voice_audition/out_tweak/
+voice_build/raw/
+voice_build/raw2/
+voice_build/clips/
+voice_build/clips2/
+voice_build/clips3/
+voice_build/bundles/
+voice_build/bundles2/
+voice_build/tmpw/
+*.mp3
+*.mp4
+*.wav
+
+# Run state and logs
+progress.json
+*.log
+
+# Secrets: keys live in environment variables, never in files
+.env
+*.key
+
+# Import staging
+_import/
