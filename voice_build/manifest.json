@@ -1,0 +1,3272 @@
+[
+{
+"id": "bodyweight-squats.i1",
+"cat": "intro",
+"text": "Up next: Bodyweight squats! Feet shoulder-width, sit your hips back and down.",
+"energy": "mid",
+"ex": "bodyweight-squats"
+},
+{
+"id": "bodyweight-squats.i2",
+"cat": "intro",
+"text": "Next up, Bodyweight squats! Chest tall, drive through your heels.",
+"energy": "mid",
+"ex": "bodyweight-squats"
+},
+{
+"id": "bodyweight-squats.i3",
+"cat": "intro",
+"text": "Alright, Bodyweight squats! Keep your knees tracking over your toes.",
+"energy": "mid",
+"ex": "bodyweight-squats"
+},
+{
+"id": "bodyweight-squats.i4",
+"cat": "intro",
+"text": "Coming up, Bodyweight squats! Feet shoulder-width, sit your hips back and down. Keep your knees tracking over your toes.",
+"energy": "mid",
+"ex": "bodyweight-squats"
+},
+{
+"id": "bodyweight-squats.n1",
+"cat": "name",
+"text": "Up next: Bodyweight squats!",
+"energy": "mid",
+"ex": "bodyweight-squats"
+},
+{
+"id": "bodyweight-squats.n2",
+"cat": "name",
+"text": "Alright, Bodyweight squats!",
+"energy": "mid",
+"ex": "bodyweight-squats"
+},
+{
+"id": "bodyweight-squats.r1",
+"cat": "remind",
+"text": "Keep it smooth. Chest tall, drive through your heels.",
+"energy": "mid",
+"ex": "bodyweight-squats"
+},
+{
+"id": "bodyweight-squats.r2",
+"cat": "remind",
+"text": "Stay with it. Keep your knees tracking over your toes.",
+"energy": "mid",
+"ex": "bodyweight-squats"
+},
+{
+"id": "bodyweight-squats.r3",
+"cat": "remind",
+"text": "Nice, and remember, feet shoulder-width, sit your hips back and down.",
+"energy": "mid",
+"ex": "bodyweight-squats"
+},
+{
+"id": "arm-circles.i1",
+"cat": "intro",
+"text": "Next up, Arm circles! Big, slow circles, reaching long through your fingertips.",
+"energy": "mid",
+"ex": "arm-circles"
+},
+{
+"id": "arm-circles.i2",
+"cat": "intro",
+"text": "Alright, Arm circles! Keep your shoulders relaxed and your chest open.",
+"energy": "mid",
+"ex": "arm-circles"
+},
+{
+"id": "arm-circles.i3",
+"cat": "intro",
+"text": "Coming up, Arm circles! Smooth and easy, then switch directions.",
+"energy": "mid",
+"ex": "arm-circles"
+},
+{
+"id": "arm-circles.i4",
+"cat": "intro",
+"text": "Time for Arm circles! Big, slow circles, reaching long through your fingertips. Smooth and easy, then switch directions.",
+"energy": "mid",
+"ex": "arm-circles"
+},
+{
+"id": "arm-circles.n1",
+"cat": "name",
+"text": "Next up, Arm circles!",
+"energy": "mid",
+"ex": "arm-circles"
+},
+{
+"id": "arm-circles.n2",
+"cat": "name",
+"text": "Alright, Arm circles!",
+"energy": "mid",
+"ex": "arm-circles"
+},
+{
+"id": "arm-circles.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your shoulders relaxed and your chest open.",
+"energy": "mid",
+"ex": "arm-circles"
+},
+{
+"id": "arm-circles.r2",
+"cat": "remind",
+"text": "Stay with it. Smooth and easy, then switch directions.",
+"energy": "mid",
+"ex": "arm-circles"
+},
+{
+"id": "arm-circles.r3",
+"cat": "remind",
+"text": "Nice, and remember, big, slow circles, reaching long through your fingertips.",
+"energy": "mid",
+"ex": "arm-circles"
+},
+{
+"id": "jumping-jacks.i1",
+"cat": "intro",
+"text": "Alright, Jumping jacks! Land softly on the balls of your feet.",
+"energy": "mid",
+"ex": "jumping-jacks"
+},
+{
+"id": "jumping-jacks.i2",
+"cat": "intro",
+"text": "Coming up, Jumping jacks! Arms all the way up, feet wide.",
+"energy": "mid",
+"ex": "jumping-jacks"
+},
+{
+"id": "jumping-jacks.i3",
+"cat": "intro",
+"text": "Time for Jumping jacks! Stay light and springy, and keep a steady rhythm.",
+"energy": "mid",
+"ex": "jumping-jacks"
+},
+{
+"id": "jumping-jacks.i4",
+"cat": "intro",
+"text": "Get ready for Jumping jacks! Land softly on the balls of your feet. Stay light and springy, and keep a steady rhythm.",
+"energy": "mid",
+"ex": "jumping-jacks"
+},
+{
+"id": "jumping-jacks.n1",
+"cat": "name",
+"text": "Up next: Jumping jacks!",
+"energy": "mid",
+"ex": "jumping-jacks"
+},
+{
+"id": "jumping-jacks.n2",
+"cat": "name",
+"text": "Coming up, Jumping jacks!",
+"energy": "mid",
+"ex": "jumping-jacks"
+},
+{
+"id": "jumping-jacks.r1",
+"cat": "remind",
+"text": "Keep it smooth. Arms all the way up, feet wide.",
+"energy": "mid",
+"ex": "jumping-jacks"
+},
+{
+"id": "jumping-jacks.r2",
+"cat": "remind",
+"text": "Stay with it. Stay light and springy, and keep a steady rhythm.",
+"energy": "mid",
+"ex": "jumping-jacks"
+},
+{
+"id": "jumping-jacks.r3",
+"cat": "remind",
+"text": "Nice, and remember, land softly on the balls of your feet.",
+"energy": "mid",
+"ex": "jumping-jacks"
+},
+{
+"id": "torso-twists.i1",
+"cat": "intro",
+"text": "Coming up, Torso twists! Rotate from your middle and let your arms hang loose.",
+"energy": "mid",
+"ex": "torso-twists"
+},
+{
+"id": "torso-twists.i2",
+"cat": "intro",
+"text": "Time for Torso twists! Keep your hips quiet and your chest proud.",
+"energy": "mid",
+"ex": "torso-twists"
+},
+{
+"id": "torso-twists.i3",
+"cat": "intro",
+"text": "Get ready for Torso twists! Nice and easy, breathe as you twist.",
+"energy": "mid",
+"ex": "torso-twists"
+},
+{
+"id": "torso-twists.i4",
+"cat": "intro",
+"text": "Up next: Torso twists! Rotate from your middle and let your arms hang loose. Nice and easy, breathe as you twist.",
+"energy": "mid",
+"ex": "torso-twists"
+},
+{
+"id": "torso-twists.n1",
+"cat": "name",
+"text": "Next up, Torso twists!",
+"energy": "mid",
+"ex": "torso-twists"
+},
+{
+"id": "torso-twists.n2",
+"cat": "name",
+"text": "Coming up, Torso twists!",
+"energy": "mid",
+"ex": "torso-twists"
+},
+{
+"id": "torso-twists.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your hips quiet and your chest proud.",
+"energy": "mid",
+"ex": "torso-twists"
+},
+{
+"id": "torso-twists.r2",
+"cat": "remind",
+"text": "Stay with it. Nice and easy, breathe as you twist.",
+"energy": "mid",
+"ex": "torso-twists"
+},
+{
+"id": "torso-twists.r3",
+"cat": "remind",
+"text": "Nice, and remember, rotate from your middle and let your arms hang loose.",
+"energy": "mid",
+"ex": "torso-twists"
+},
+{
+"id": "leg-swings.i1",
+"cat": "intro",
+"text": "Time for Leg swings! Hold something steady and swing the leg front to back.",
+"energy": "mid",
+"ex": "leg-swings"
+},
+{
+"id": "leg-swings.i2",
+"cat": "intro",
+"text": "Get ready for Leg swings! Keep your core tight and your hips level.",
+"energy": "mid",
+"ex": "leg-swings"
+},
+{
+"id": "leg-swings.i3",
+"cat": "intro",
+"text": "Up next: Leg swings! Loose and easy, then switch legs.",
+"energy": "mid",
+"ex": "leg-swings"
+},
+{
+"id": "leg-swings.i4",
+"cat": "intro",
+"text": "Next up, Leg swings! Hold something steady and swing the leg front to back. Loose and easy, then switch legs.",
+"energy": "mid",
+"ex": "leg-swings"
+},
+{
+"id": "leg-swings.n1",
+"cat": "name",
+"text": "Up next: Leg swings!",
+"energy": "mid",
+"ex": "leg-swings"
+},
+{
+"id": "leg-swings.n2",
+"cat": "name",
+"text": "Alright, Leg swings!",
+"energy": "mid",
+"ex": "leg-swings"
+},
+{
+"id": "leg-swings.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your core tight and your hips level.",
+"energy": "mid",
+"ex": "leg-swings"
+},
+{
+"id": "leg-swings.r2",
+"cat": "remind",
+"text": "Stay with it. Loose and easy, then switch legs.",
+"energy": "mid",
+"ex": "leg-swings"
+},
+{
+"id": "leg-swings.r3",
+"cat": "remind",
+"text": "Nice, and remember, hold something steady and swing the leg front to back.",
+"energy": "mid",
+"ex": "leg-swings"
+},
+{
+"id": "push-ups.i1",
+"cat": "intro",
+"text": "Get ready for Push-ups! Hands under your shoulders, body in one long line.",
+"energy": "mid",
+"ex": "push-ups"
+},
+{
+"id": "push-ups.i2",
+"cat": "intro",
+"text": "Up next: Push-ups! Lower your chest, then press the floor away.",
+"energy": "mid",
+"ex": "push-ups"
+},
+{
+"id": "push-ups.i3",
+"cat": "intro",
+"text": "Next up, Push-ups! Squeeze your glutes and keep your core tight.",
+"energy": "mid",
+"ex": "push-ups"
+},
+{
+"id": "push-ups.i4",
+"cat": "intro",
+"text": "Alright, Push-ups! Hands under your shoulders, body in one long line. Squeeze your glutes and keep your core tight.",
+"energy": "mid",
+"ex": "push-ups"
+},
+{
+"id": "push-ups.n1",
+"cat": "name",
+"text": "Next up, Push-ups!",
+"energy": "mid",
+"ex": "push-ups"
+},
+{
+"id": "push-ups.n2",
+"cat": "name",
+"text": "Alright, Push-ups!",
+"energy": "mid",
+"ex": "push-ups"
+},
+{
+"id": "push-ups.r1",
+"cat": "remind",
+"text": "Keep it smooth. Lower your chest, then press the floor away.",
+"energy": "mid",
+"ex": "push-ups"
+},
+{
+"id": "push-ups.r2",
+"cat": "remind",
+"text": "Stay with it. Squeeze your glutes and keep your core tight.",
+"energy": "mid",
+"ex": "push-ups"
+},
+{
+"id": "push-ups.r3",
+"cat": "remind",
+"text": "Nice, and remember, hands under your shoulders, body in one long line.",
+"energy": "mid",
+"ex": "push-ups"
+},
+{
+"id": "burpees.i1",
+"cat": "intro",
+"text": "Up next: Burpees! Chest to the floor, then explode up.",
+"energy": "mid",
+"ex": "burpees"
+},
+{
+"id": "burpees.i2",
+"cat": "intro",
+"text": "Next up, Burpees! Land soft and keep your breath moving.",
+"energy": "mid",
+"ex": "burpees"
+},
+{
+"id": "burpees.i3",
+"cat": "intro",
+"text": "Alright, Burpees! Find a steady rhythm, no need to rush.",
+"energy": "mid",
+"ex": "burpees"
+},
+{
+"id": "burpees.i4",
+"cat": "intro",
+"text": "Coming up, Burpees! Chest to the floor, then explode up. Find a steady rhythm, no need to rush.",
+"energy": "mid",
+"ex": "burpees"
+},
+{
+"id": "burpees.n1",
+"cat": "name",
+"text": "Up next: Burpees!",
+"energy": "mid",
+"ex": "burpees"
+},
+{
+"id": "burpees.n2",
+"cat": "name",
+"text": "Coming up, Burpees!",
+"energy": "mid",
+"ex": "burpees"
+},
+{
+"id": "burpees.r1",
+"cat": "remind",
+"text": "Keep it smooth. Land soft and keep your breath moving.",
+"energy": "mid",
+"ex": "burpees"
+},
+{
+"id": "burpees.r2",
+"cat": "remind",
+"text": "Stay with it. Find a steady rhythm, no need to rush.",
+"energy": "mid",
+"ex": "burpees"
+},
+{
+"id": "burpees.r3",
+"cat": "remind",
+"text": "Nice, and remember, chest to the floor, then explode up.",
+"energy": "mid",
+"ex": "burpees"
+},
+{
+"id": "incline-push-ups.i1",
+"cat": "intro",
+"text": "Next up, Incline push-ups! Hands on a sturdy surface, body in a straight line.",
+"energy": "mid",
+"ex": "incline-push-ups"
+},
+{
+"id": "incline-push-ups.i2",
+"cat": "intro",
+"text": "Alright, Incline push-ups! Lower your chest to the edge, then press back.",
+"energy": "mid",
+"ex": "incline-push-ups"
+},
+{
+"id": "incline-push-ups.i3",
+"cat": "intro",
+"text": "Coming up, Incline push-ups! Keep your elbows at about forty-five degrees.",
+"energy": "mid",
+"ex": "incline-push-ups"
+},
+{
+"id": "incline-push-ups.i4",
+"cat": "intro",
+"text": "Time for Incline push-ups! Hands on a sturdy surface, body in a straight line. Keep your elbows at about forty-five degrees.",
+"energy": "mid",
+"ex": "incline-push-ups"
+},
+{
+"id": "incline-push-ups.n1",
+"cat": "name",
+"text": "Next up, Incline push-ups!",
+"energy": "mid",
+"ex": "incline-push-ups"
+},
+{
+"id": "incline-push-ups.n2",
+"cat": "name",
+"text": "Coming up, Incline push-ups!",
+"energy": "mid",
+"ex": "incline-push-ups"
+},
+{
+"id": "incline-push-ups.r1",
+"cat": "remind",
+"text": "Keep it smooth. Lower your chest to the edge, then press back.",
+"energy": "mid",
+"ex": "incline-push-ups"
+},
+{
+"id": "incline-push-ups.r2",
+"cat": "remind",
+"text": "Stay with it. Keep your elbows at about forty-five degrees.",
+"energy": "mid",
+"ex": "incline-push-ups"
+},
+{
+"id": "incline-push-ups.r3",
+"cat": "remind",
+"text": "Nice, and remember, hands on a sturdy surface, body in a straight line.",
+"energy": "mid",
+"ex": "incline-push-ups"
+},
+{
+"id": "diamond-push-ups.i1",
+"cat": "intro",
+"text": "Alright, Diamond push-ups! Hands together under your chest, forming a diamond.",
+"energy": "mid",
+"ex": "diamond-push-ups"
+},
+{
+"id": "diamond-push-ups.i2",
+"cat": "intro",
+"text": "Coming up, Diamond push-ups! Elbows tucked close, lower with control.",
+"energy": "mid",
+"ex": "diamond-push-ups"
+},
+{
+"id": "diamond-push-ups.i3",
+"cat": "intro",
+"text": "Time for Diamond push-ups! Press up strong and keep your hips level.",
+"energy": "mid",
+"ex": "diamond-push-ups"
+},
+{
+"id": "diamond-push-ups.i4",
+"cat": "intro",
+"text": "Get ready for Diamond push-ups! Hands together under your chest, forming a diamond. Press up strong and keep your hips level.",
+"energy": "mid",
+"ex": "diamond-push-ups"
+},
+{
+"id": "diamond-push-ups.n1",
+"cat": "name",
+"text": "Up next: Diamond push-ups!",
+"energy": "mid",
+"ex": "diamond-push-ups"
+},
+{
+"id": "diamond-push-ups.n2",
+"cat": "name",
+"text": "Alright, Diamond push-ups!",
+"energy": "mid",
+"ex": "diamond-push-ups"
+},
+{
+"id": "diamond-push-ups.r1",
+"cat": "remind",
+"text": "Keep it smooth. Elbows tucked close, lower with control.",
+"energy": "mid",
+"ex": "diamond-push-ups"
+},
+{
+"id": "diamond-push-ups.r2",
+"cat": "remind",
+"text": "Stay with it. Press up strong and keep your hips level.",
+"energy": "mid",
+"ex": "diamond-push-ups"
+},
+{
+"id": "diamond-push-ups.r3",
+"cat": "remind",
+"text": "Nice, and remember, hands together under your chest, forming a diamond.",
+"energy": "mid",
+"ex": "diamond-push-ups"
+},
+{
+"id": "pike-push-ups.i1",
+"cat": "intro",
+"text": "Coming up, Pike push-ups! Hips high, head moving between your hands.",
+"energy": "mid",
+"ex": "pike-push-ups"
+},
+{
+"id": "pike-push-ups.i2",
+"cat": "intro",
+"text": "Time for Pike push-ups! Lower the top of your head toward the floor.",
+"energy": "mid",
+"ex": "pike-push-ups"
+},
+{
+"id": "pike-push-ups.i3",
+"cat": "intro",
+"text": "Get ready for Pike push-ups! Press back up and keep your legs long.",
+"energy": "mid",
+"ex": "pike-push-ups"
+},
+{
+"id": "pike-push-ups.i4",
+"cat": "intro",
+"text": "Up next: Pike push-ups! Hips high, head moving between your hands. Press back up and keep your legs long.",
+"energy": "mid",
+"ex": "pike-push-ups"
+},
+{
+"id": "pike-push-ups.n1",
+"cat": "name",
+"text": "Next up, Pike push-ups!",
+"energy": "mid",
+"ex": "pike-push-ups"
+},
+{
+"id": "pike-push-ups.n2",
+"cat": "name",
+"text": "Alright, Pike push-ups!",
+"energy": "mid",
+"ex": "pike-push-ups"
+},
+{
+"id": "pike-push-ups.r1",
+"cat": "remind",
+"text": "Keep it smooth. Lower the top of your head toward the floor.",
+"energy": "mid",
+"ex": "pike-push-ups"
+},
+{
+"id": "pike-push-ups.r2",
+"cat": "remind",
+"text": "Stay with it. Press back up and keep your legs long.",
+"energy": "mid",
+"ex": "pike-push-ups"
+},
+{
+"id": "pike-push-ups.r3",
+"cat": "remind",
+"text": "Nice, and remember, hips high, head moving between your hands.",
+"energy": "mid",
+"ex": "pike-push-ups"
+},
+{
+"id": "tricep-dips.i1",
+"cat": "intro",
+"text": "Time for Tricep dips! Hands on the edge, bend your elbows back, close to your body.",
+"energy": "mid",
+"ex": "tricep-dips"
+},
+{
+"id": "tricep-dips.i2",
+"cat": "intro",
+"text": "Get ready for Tricep dips! Keep your chest lifted and your shoulders down.",
+"energy": "mid",
+"ex": "tricep-dips"
+},
+{
+"id": "tricep-dips.i3",
+"cat": "intro",
+"text": "Up next: Tricep dips! Lower with control, then press up tall.",
+"energy": "mid",
+"ex": "tricep-dips"
+},
+{
+"id": "tricep-dips.i4",
+"cat": "intro",
+"text": "Next up, Tricep dips! Hands on the edge, bend your elbows back, close to your body. Lower with control, then press up tall.",
+"energy": "mid",
+"ex": "tricep-dips"
+},
+{
+"id": "tricep-dips.n1",
+"cat": "name",
+"text": "Up next: Tricep dips!",
+"energy": "mid",
+"ex": "tricep-dips"
+},
+{
+"id": "tricep-dips.n2",
+"cat": "name",
+"text": "Coming up, Tricep dips!",
+"energy": "mid",
+"ex": "tricep-dips"
+},
+{
+"id": "tricep-dips.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your chest lifted and your shoulders down.",
+"energy": "mid",
+"ex": "tricep-dips"
+},
+{
+"id": "tricep-dips.r2",
+"cat": "remind",
+"text": "Stay with it. Lower with control, then press up tall.",
+"energy": "mid",
+"ex": "tricep-dips"
+},
+{
+"id": "tricep-dips.r3",
+"cat": "remind",
+"text": "Nice, and remember, hands on the edge, bend your elbows back, close to your body.",
+"energy": "mid",
+"ex": "tricep-dips"
+},
+{
+"id": "bent-over-dumbbell-rows.i1",
+"cat": "intro",
+"text": "Get ready for Bent-over dumbbell rows! Hinge at the hips and keep your back flat.",
+"energy": "mid",
+"ex": "bent-over-dumbbell-rows"
+},
+{
+"id": "bent-over-dumbbell-rows.i2",
+"cat": "intro",
+"text": "Up next: Bent-over dumbbell rows! Pull your elbows back, close to your ribs.",
+"energy": "mid",
+"ex": "bent-over-dumbbell-rows"
+},
+{
+"id": "bent-over-dumbbell-rows.i3",
+"cat": "intro",
+"text": "Next up, Bent-over dumbbell rows! Squeeze your shoulder blades together at the top.",
+"energy": "mid",
+"ex": "bent-over-dumbbell-rows"
+},
+{
+"id": "bent-over-dumbbell-rows.i4",
+"cat": "intro",
+"text": "Alright, Bent-over dumbbell rows! Hinge at the hips and keep your back flat. Squeeze your shoulder blades together at the top.",
+"energy": "mid",
+"ex": "bent-over-dumbbell-rows"
+},
+{
+"id": "bent-over-dumbbell-rows.n1",
+"cat": "name",
+"text": "Next up, Bent-over dumbbell rows!",
+"energy": "mid",
+"ex": "bent-over-dumbbell-rows"
+},
+{
+"id": "bent-over-dumbbell-rows.n2",
+"cat": "name",
+"text": "Coming up, Bent-over dumbbell rows!",
+"energy": "mid",
+"ex": "bent-over-dumbbell-rows"
+},
+{
+"id": "bent-over-dumbbell-rows.r1",
+"cat": "remind",
+"text": "Keep it smooth. Pull your elbows back, close to your ribs.",
+"energy": "mid",
+"ex": "bent-over-dumbbell-rows"
+},
+{
+"id": "bent-over-dumbbell-rows.r2",
+"cat": "remind",
+"text": "Stay with it. Squeeze your shoulder blades together at the top.",
+"energy": "mid",
+"ex": "bent-over-dumbbell-rows"
+},
+{
+"id": "bent-over-dumbbell-rows.r3",
+"cat": "remind",
+"text": "Nice, and remember, hinge at the hips and keep your back flat.",
+"energy": "mid",
+"ex": "bent-over-dumbbell-rows"
+},
+{
+"id": "dumbbell-thrusters.i1",
+"cat": "intro",
+"text": "Up next: Dumbbell thrusters! Squat deep, then drive up and press overhead.",
+"energy": "mid",
+"ex": "dumbbell-thrusters"
+},
+{
+"id": "dumbbell-thrusters.i2",
+"cat": "intro",
+"text": "Next up, Dumbbell thrusters! Use your legs to power the press.",
+"energy": "mid",
+"ex": "dumbbell-thrusters"
+},
+{
+"id": "dumbbell-thrusters.i3",
+"cat": "intro",
+"text": "Alright, Dumbbell thrusters! Keep the weights close and your core tight.",
+"energy": "mid",
+"ex": "dumbbell-thrusters"
+},
+{
+"id": "dumbbell-thrusters.i4",
+"cat": "intro",
+"text": "Coming up, Dumbbell thrusters! Squat deep, then drive up and press overhead. Keep the weights close and your core tight.",
+"energy": "mid",
+"ex": "dumbbell-thrusters"
+},
+{
+"id": "dumbbell-thrusters.n1",
+"cat": "name",
+"text": "Up next: Dumbbell thrusters!",
+"energy": "mid",
+"ex": "dumbbell-thrusters"
+},
+{
+"id": "dumbbell-thrusters.n2",
+"cat": "name",
+"text": "Alright, Dumbbell thrusters!",
+"energy": "mid",
+"ex": "dumbbell-thrusters"
+},
+{
+"id": "dumbbell-thrusters.r1",
+"cat": "remind",
+"text": "Keep it smooth. Use your legs to power the press.",
+"energy": "mid",
+"ex": "dumbbell-thrusters"
+},
+{
+"id": "dumbbell-thrusters.r2",
+"cat": "remind",
+"text": "Stay with it. Keep the weights close and your core tight.",
+"energy": "mid",
+"ex": "dumbbell-thrusters"
+},
+{
+"id": "dumbbell-thrusters.r3",
+"cat": "remind",
+"text": "Nice, and remember, squat deep, then drive up and press overhead.",
+"energy": "mid",
+"ex": "dumbbell-thrusters"
+},
+{
+"id": "dumbbell-shoulder-press.i1",
+"cat": "intro",
+"text": "Next up, Dumbbell shoulder press! Weights at shoulder height, then press them overhead.",
+"energy": "mid",
+"ex": "dumbbell-shoulder-press"
+},
+{
+"id": "dumbbell-shoulder-press.i2",
+"cat": "intro",
+"text": "Alright, Dumbbell shoulder press! Keep your ribs down and your core tight.",
+"energy": "mid",
+"ex": "dumbbell-shoulder-press"
+},
+{
+"id": "dumbbell-shoulder-press.i3",
+"cat": "intro",
+"text": "Coming up, Dumbbell shoulder press! Lower slowly, then drive up again.",
+"energy": "mid",
+"ex": "dumbbell-shoulder-press"
+},
+{
+"id": "dumbbell-shoulder-press.i4",
+"cat": "intro",
+"text": "Time for Dumbbell shoulder press! Weights at shoulder height, then press them overhead. Lower slowly, then drive up again.",
+"energy": "mid",
+"ex": "dumbbell-shoulder-press"
+},
+{
+"id": "dumbbell-shoulder-press.n1",
+"cat": "name",
+"text": "Next up, Dumbbell shoulder press!",
+"energy": "mid",
+"ex": "dumbbell-shoulder-press"
+},
+{
+"id": "dumbbell-shoulder-press.n2",
+"cat": "name",
+"text": "Alright, Dumbbell shoulder press!",
+"energy": "mid",
+"ex": "dumbbell-shoulder-press"
+},
+{
+"id": "dumbbell-shoulder-press.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your ribs down and your core tight.",
+"energy": "mid",
+"ex": "dumbbell-shoulder-press"
+},
+{
+"id": "dumbbell-shoulder-press.r2",
+"cat": "remind",
+"text": "Stay with it. Lower slowly, then drive up again.",
+"energy": "mid",
+"ex": "dumbbell-shoulder-press"
+},
+{
+"id": "dumbbell-shoulder-press.r3",
+"cat": "remind",
+"text": "Nice, and remember, weights at shoulder height, then press them overhead.",
+"energy": "mid",
+"ex": "dumbbell-shoulder-press"
+},
+{
+"id": "dumbbell-floor-press.i1",
+"cat": "intro",
+"text": "Alright, Dumbbell floor press! Lie back with your elbows at forty-five degrees.",
+"energy": "mid",
+"ex": "dumbbell-floor-press"
+},
+{
+"id": "dumbbell-floor-press.i2",
+"cat": "intro",
+"text": "Coming up, Dumbbell floor press! Press the weights up over your chest.",
+"energy": "mid",
+"ex": "dumbbell-floor-press"
+},
+{
+"id": "dumbbell-floor-press.i3",
+"cat": "intro",
+"text": "Time for Dumbbell floor press! Lower slowly until your arms touch the floor.",
+"energy": "mid",
+"ex": "dumbbell-floor-press"
+},
+{
+"id": "dumbbell-floor-press.i4",
+"cat": "intro",
+"text": "Get ready for Dumbbell floor press! Lie back with your elbows at forty-five degrees. Lower slowly until your arms touch the floor.",
+"energy": "mid",
+"ex": "dumbbell-floor-press"
+},
+{
+"id": "dumbbell-floor-press.n1",
+"cat": "name",
+"text": "Up next: Dumbbell floor press!",
+"energy": "mid",
+"ex": "dumbbell-floor-press"
+},
+{
+"id": "dumbbell-floor-press.n2",
+"cat": "name",
+"text": "Coming up, Dumbbell floor press!",
+"energy": "mid",
+"ex": "dumbbell-floor-press"
+},
+{
+"id": "dumbbell-floor-press.r1",
+"cat": "remind",
+"text": "Keep it smooth. Press the weights up over your chest.",
+"energy": "mid",
+"ex": "dumbbell-floor-press"
+},
+{
+"id": "dumbbell-floor-press.r2",
+"cat": "remind",
+"text": "Stay with it. Lower slowly until your arms touch the floor.",
+"energy": "mid",
+"ex": "dumbbell-floor-press"
+},
+{
+"id": "dumbbell-floor-press.r3",
+"cat": "remind",
+"text": "Nice, and remember, lie back with your elbows at forty-five degrees.",
+"energy": "mid",
+"ex": "dumbbell-floor-press"
+},
+{
+"id": "dumbbell-curl-to-press.i1",
+"cat": "intro",
+"text": "Coming up, Dumbbell curl to press! Curl up, rotate, and press overhead.",
+"energy": "mid",
+"ex": "dumbbell-curl-to-press"
+},
+{
+"id": "dumbbell-curl-to-press.i2",
+"cat": "intro",
+"text": "Time for Dumbbell curl to press! Keep your elbows close to your body.",
+"energy": "mid",
+"ex": "dumbbell-curl-to-press"
+},
+{
+"id": "dumbbell-curl-to-press.i3",
+"cat": "intro",
+"text": "Get ready for Dumbbell curl to press! Smooth and steady, don't swing the weights.",
+"energy": "mid",
+"ex": "dumbbell-curl-to-press"
+},
+{
+"id": "dumbbell-curl-to-press.i4",
+"cat": "intro",
+"text": "Up next: Dumbbell curl to press! Curl up, rotate, and press overhead. Smooth and steady, don't swing the weights.",
+"energy": "mid",
+"ex": "dumbbell-curl-to-press"
+},
+{
+"id": "dumbbell-curl-to-press.n1",
+"cat": "name",
+"text": "Next up, Dumbbell curl to press!",
+"energy": "mid",
+"ex": "dumbbell-curl-to-press"
+},
+{
+"id": "dumbbell-curl-to-press.n2",
+"cat": "name",
+"text": "Coming up, Dumbbell curl to press!",
+"energy": "mid",
+"ex": "dumbbell-curl-to-press"
+},
+{
+"id": "dumbbell-curl-to-press.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your elbows close to your body.",
+"energy": "mid",
+"ex": "dumbbell-curl-to-press"
+},
+{
+"id": "dumbbell-curl-to-press.r2",
+"cat": "remind",
+"text": "Stay with it. Smooth and steady, don't swing the weights.",
+"energy": "mid",
+"ex": "dumbbell-curl-to-press"
+},
+{
+"id": "dumbbell-curl-to-press.r3",
+"cat": "remind",
+"text": "Nice, and remember, curl up, rotate, and press overhead.",
+"energy": "mid",
+"ex": "dumbbell-curl-to-press"
+},
+{
+"id": "dumbbell-hammer-curls.i1",
+"cat": "intro",
+"text": "Time for Dumbbell hammer curls! Palms facing in, curl toward your shoulders.",
+"energy": "mid",
+"ex": "dumbbell-hammer-curls"
+},
+{
+"id": "dumbbell-hammer-curls.i2",
+"cat": "intro",
+"text": "Get ready for Dumbbell hammer curls! Keep your elbows pinned to your sides.",
+"energy": "mid",
+"ex": "dumbbell-hammer-curls"
+},
+{
+"id": "dumbbell-hammer-curls.i3",
+"cat": "intro",
+"text": "Up next: Dumbbell hammer curls! Lower slowly and don't swing.",
+"energy": "mid",
+"ex": "dumbbell-hammer-curls"
+},
+{
+"id": "dumbbell-hammer-curls.i4",
+"cat": "intro",
+"text": "Next up, Dumbbell hammer curls! Palms facing in, curl toward your shoulders. Lower slowly and don't swing.",
+"energy": "mid",
+"ex": "dumbbell-hammer-curls"
+},
+{
+"id": "dumbbell-hammer-curls.n1",
+"cat": "name",
+"text": "Up next: Dumbbell hammer curls!",
+"energy": "mid",
+"ex": "dumbbell-hammer-curls"
+},
+{
+"id": "dumbbell-hammer-curls.n2",
+"cat": "name",
+"text": "Alright, Dumbbell hammer curls!",
+"energy": "mid",
+"ex": "dumbbell-hammer-curls"
+},
+{
+"id": "dumbbell-hammer-curls.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your elbows pinned to your sides.",
+"energy": "mid",
+"ex": "dumbbell-hammer-curls"
+},
+{
+"id": "dumbbell-hammer-curls.r2",
+"cat": "remind",
+"text": "Stay with it. Lower slowly and don't swing.",
+"energy": "mid",
+"ex": "dumbbell-hammer-curls"
+},
+{
+"id": "dumbbell-hammer-curls.r3",
+"cat": "remind",
+"text": "Nice, and remember, palms facing in, curl toward your shoulders.",
+"energy": "mid",
+"ex": "dumbbell-hammer-curls"
+},
+{
+"id": "dumbbell-lateral-raises.i1",
+"cat": "intro",
+"text": "Get ready for Dumbbell lateral raises! Raise your arms out to the sides, up to shoulder height.",
+"energy": "mid",
+"ex": "dumbbell-lateral-raises"
+},
+{
+"id": "dumbbell-lateral-raises.i2",
+"cat": "intro",
+"text": "Up next: Dumbbell lateral raises! Lead with your elbows, not your hands.",
+"energy": "mid",
+"ex": "dumbbell-lateral-raises"
+},
+{
+"id": "dumbbell-lateral-raises.i3",
+"cat": "intro",
+"text": "Next up, Dumbbell lateral raises! Lower slowly and keep your shoulders down.",
+"energy": "mid",
+"ex": "dumbbell-lateral-raises"
+},
+{
+"id": "dumbbell-lateral-raises.i4",
+"cat": "intro",
+"text": "Alright, Dumbbell lateral raises! Raise your arms out to the sides, up to shoulder height. Lower slowly and keep your shoulders down.",
+"energy": "mid",
+"ex": "dumbbell-lateral-raises"
+},
+{
+"id": "dumbbell-lateral-raises.n1",
+"cat": "name",
+"text": "Next up, Dumbbell lateral raises!",
+"energy": "mid",
+"ex": "dumbbell-lateral-raises"
+},
+{
+"id": "dumbbell-lateral-raises.n2",
+"cat": "name",
+"text": "Alright, Dumbbell lateral raises!",
+"energy": "mid",
+"ex": "dumbbell-lateral-raises"
+},
+{
+"id": "dumbbell-lateral-raises.r1",
+"cat": "remind",
+"text": "Keep it smooth. Lead with your elbows, not your hands.",
+"energy": "mid",
+"ex": "dumbbell-lateral-raises"
+},
+{
+"id": "dumbbell-lateral-raises.r2",
+"cat": "remind",
+"text": "Stay with it. Lower slowly and keep your shoulders down.",
+"energy": "mid",
+"ex": "dumbbell-lateral-raises"
+},
+{
+"id": "dumbbell-lateral-raises.r3",
+"cat": "remind",
+"text": "Nice, and remember, raise your arms out to the sides, up to shoulder height.",
+"energy": "mid",
+"ex": "dumbbell-lateral-raises"
+},
+{
+"id": "mountain-climbers.i1",
+"cat": "intro",
+"text": "Up next: Mountain climbers! Shoulders over your wrists, drive your knees in.",
+"energy": "mid",
+"ex": "mountain-climbers"
+},
+{
+"id": "mountain-climbers.i2",
+"cat": "intro",
+"text": "Next up, Mountain climbers! Keep your hips low and your core tight.",
+"energy": "mid",
+"ex": "mountain-climbers"
+},
+{
+"id": "mountain-climbers.i3",
+"cat": "intro",
+"text": "Alright, Mountain climbers! Quick feet and a steady breath.",
+"energy": "mid",
+"ex": "mountain-climbers"
+},
+{
+"id": "mountain-climbers.i4",
+"cat": "intro",
+"text": "Coming up, Mountain climbers! Shoulders over your wrists, drive your knees in. Quick feet and a steady breath.",
+"energy": "mid",
+"ex": "mountain-climbers"
+},
+{
+"id": "mountain-climbers.n1",
+"cat": "name",
+"text": "Up next: Mountain climbers!",
+"energy": "mid",
+"ex": "mountain-climbers"
+},
+{
+"id": "mountain-climbers.n2",
+"cat": "name",
+"text": "Coming up, Mountain climbers!",
+"energy": "mid",
+"ex": "mountain-climbers"
+},
+{
+"id": "mountain-climbers.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your hips low and your core tight.",
+"energy": "mid",
+"ex": "mountain-climbers"
+},
+{
+"id": "mountain-climbers.r2",
+"cat": "remind",
+"text": "Stay with it. Quick feet and a steady breath.",
+"energy": "mid",
+"ex": "mountain-climbers"
+},
+{
+"id": "mountain-climbers.r3",
+"cat": "remind",
+"text": "Nice, and remember, shoulders over your wrists, drive your knees in.",
+"energy": "mid",
+"ex": "mountain-climbers"
+},
+{
+"id": "plank-shoulder-taps.i1",
+"cat": "intro",
+"text": "Next up, Plank shoulder taps! Feet wide, tap one shoulder, then the other.",
+"energy": "mid",
+"ex": "plank-shoulder-taps"
+},
+{
+"id": "plank-shoulder-taps.i2",
+"cat": "intro",
+"text": "Alright, Plank shoulder taps! Keep your hips quiet and don't let them rock.",
+"energy": "mid",
+"ex": "plank-shoulder-taps"
+},
+{
+"id": "plank-shoulder-taps.i3",
+"cat": "intro",
+"text": "Coming up, Plank shoulder taps! Brace your core and keep breathing.",
+"energy": "mid",
+"ex": "plank-shoulder-taps"
+},
+{
+"id": "plank-shoulder-taps.i4",
+"cat": "intro",
+"text": "Time for Plank shoulder taps! Feet wide, tap one shoulder, then the other. Brace your core and keep breathing.",
+"energy": "mid",
+"ex": "plank-shoulder-taps"
+},
+{
+"id": "plank-shoulder-taps.n1",
+"cat": "name",
+"text": "Next up, Plank shoulder taps!",
+"energy": "mid",
+"ex": "plank-shoulder-taps"
+},
+{
+"id": "plank-shoulder-taps.n2",
+"cat": "name",
+"text": "Coming up, Plank shoulder taps!",
+"energy": "mid",
+"ex": "plank-shoulder-taps"
+},
+{
+"id": "plank-shoulder-taps.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your hips quiet and don't let them rock.",
+"energy": "mid",
+"ex": "plank-shoulder-taps"
+},
+{
+"id": "plank-shoulder-taps.r2",
+"cat": "remind",
+"text": "Stay with it. Brace your core and keep breathing.",
+"energy": "mid",
+"ex": "plank-shoulder-taps"
+},
+{
+"id": "plank-shoulder-taps.r3",
+"cat": "remind",
+"text": "Nice, and remember, feet wide, tap one shoulder, then the other.",
+"energy": "mid",
+"ex": "plank-shoulder-taps"
+},
+{
+"id": "high-knees.i1",
+"cat": "intro",
+"text": "Alright, High knees! Drive your knees up to hip height.",
+"energy": "mid",
+"ex": "high-knees"
+},
+{
+"id": "high-knees.i2",
+"cat": "intro",
+"text": "Coming up, High knees! Pump your arms and stay light on your feet.",
+"energy": "mid",
+"ex": "high-knees"
+},
+{
+"id": "high-knees.i3",
+"cat": "intro",
+"text": "Time for High knees! Tall chest and quick feet.",
+"energy": "mid",
+"ex": "high-knees"
+},
+{
+"id": "high-knees.i4",
+"cat": "intro",
+"text": "Get ready for High knees! Drive your knees up to hip height. Tall chest and quick feet.",
+"energy": "mid",
+"ex": "high-knees"
+},
+{
+"id": "high-knees.n1",
+"cat": "name",
+"text": "Up next: High knees!",
+"energy": "mid",
+"ex": "high-knees"
+},
+{
+"id": "high-knees.n2",
+"cat": "name",
+"text": "Alright, High knees!",
+"energy": "mid",
+"ex": "high-knees"
+},
+{
+"id": "high-knees.r1",
+"cat": "remind",
+"text": "Keep it smooth. Pump your arms and stay light on your feet.",
+"energy": "mid",
+"ex": "high-knees"
+},
+{
+"id": "high-knees.r2",
+"cat": "remind",
+"text": "Stay with it. Tall chest and quick feet.",
+"energy": "mid",
+"ex": "high-knees"
+},
+{
+"id": "high-knees.r3",
+"cat": "remind",
+"text": "Nice, and remember, drive your knees up to hip height.",
+"energy": "mid",
+"ex": "high-knees"
+},
+{
+"id": "bear-crawl-holds.i1",
+"cat": "intro",
+"text": "Coming up, Bear crawl holds! Knees an inch off the floor and your back flat.",
+"energy": "mid",
+"ex": "bear-crawl-holds"
+},
+{
+"id": "bear-crawl-holds.i2",
+"cat": "intro",
+"text": "Time for Bear crawl holds! Press into your hands and keep your core tight.",
+"energy": "mid",
+"ex": "bear-crawl-holds"
+},
+{
+"id": "bear-crawl-holds.i3",
+"cat": "intro",
+"text": "Get ready for Bear crawl holds! Breathe steady and don't let your hips rise.",
+"energy": "mid",
+"ex": "bear-crawl-holds"
+},
+{
+"id": "bear-crawl-holds.i4",
+"cat": "intro",
+"text": "Up next: Bear crawl holds! Knees an inch off the floor and your back flat. Breathe steady and don't let your hips rise.",
+"energy": "mid",
+"ex": "bear-crawl-holds"
+},
+{
+"id": "bear-crawl-holds.n1",
+"cat": "name",
+"text": "Next up, Bear crawl holds!",
+"energy": "mid",
+"ex": "bear-crawl-holds"
+},
+{
+"id": "bear-crawl-holds.n2",
+"cat": "name",
+"text": "Alright, Bear crawl holds!",
+"energy": "mid",
+"ex": "bear-crawl-holds"
+},
+{
+"id": "bear-crawl-holds.r1",
+"cat": "remind",
+"text": "Keep it smooth. Press into your hands and keep your core tight.",
+"energy": "mid",
+"ex": "bear-crawl-holds"
+},
+{
+"id": "bear-crawl-holds.r2",
+"cat": "remind",
+"text": "Stay with it. Breathe steady and don't let your hips rise.",
+"energy": "mid",
+"ex": "bear-crawl-holds"
+},
+{
+"id": "bear-crawl-holds.r3",
+"cat": "remind",
+"text": "Nice, and remember, knees an inch off the floor and your back flat.",
+"energy": "mid",
+"ex": "bear-crawl-holds"
+},
+{
+"id": "plank-hold.i1",
+"cat": "intro",
+"text": "Time for Plank hold! Forearms down, body in one long line.",
+"energy": "mid",
+"ex": "plank-hold"
+},
+{
+"id": "plank-hold.i2",
+"cat": "intro",
+"text": "Get ready for Plank hold! Squeeze your glutes and your core.",
+"energy": "mid",
+"ex": "plank-hold"
+},
+{
+"id": "plank-hold.i3",
+"cat": "intro",
+"text": "Up next: Plank hold! Push the floor away and keep your hips level.",
+"energy": "mid",
+"ex": "plank-hold"
+},
+{
+"id": "plank-hold.i4",
+"cat": "intro",
+"text": "Next up, Plank hold! Forearms down, body in one long line. Push the floor away and keep your hips level.",
+"energy": "mid",
+"ex": "plank-hold"
+},
+{
+"id": "plank-hold.n1",
+"cat": "name",
+"text": "Up next: Plank hold!",
+"energy": "mid",
+"ex": "plank-hold"
+},
+{
+"id": "plank-hold.n2",
+"cat": "name",
+"text": "Coming up, Plank hold!",
+"energy": "mid",
+"ex": "plank-hold"
+},
+{
+"id": "plank-hold.r1",
+"cat": "remind",
+"text": "Keep it smooth. Squeeze your glutes and your core.",
+"energy": "mid",
+"ex": "plank-hold"
+},
+{
+"id": "plank-hold.r2",
+"cat": "remind",
+"text": "Stay with it. Push the floor away and keep your hips level.",
+"energy": "mid",
+"ex": "plank-hold"
+},
+{
+"id": "plank-hold.r3",
+"cat": "remind",
+"text": "Nice, and remember, forearms down, body in one long line.",
+"energy": "mid",
+"ex": "plank-hold"
+},
+{
+"id": "side-plank-holds.i1",
+"cat": "intro",
+"text": "Get ready for Side plank holds! Stack your feet and lift your hips high.",
+"energy": "mid",
+"ex": "side-plank-holds"
+},
+{
+"id": "side-plank-holds.i2",
+"cat": "intro",
+"text": "Up next: Side plank holds! Press into your forearm and stay long.",
+"energy": "mid",
+"ex": "side-plank-holds"
+},
+{
+"id": "side-plank-holds.i3",
+"cat": "intro",
+"text": "Next up, Side plank holds! Breathe slowly and keep your hips lifted.",
+"energy": "mid",
+"ex": "side-plank-holds"
+},
+{
+"id": "side-plank-holds.i4",
+"cat": "intro",
+"text": "Alright, Side plank holds! Stack your feet and lift your hips high. Breathe slowly and keep your hips lifted.",
+"energy": "mid",
+"ex": "side-plank-holds"
+},
+{
+"id": "side-plank-holds.n1",
+"cat": "name",
+"text": "Next up, Side plank holds!",
+"energy": "mid",
+"ex": "side-plank-holds"
+},
+{
+"id": "side-plank-holds.n2",
+"cat": "name",
+"text": "Coming up, Side plank holds!",
+"energy": "mid",
+"ex": "side-plank-holds"
+},
+{
+"id": "side-plank-holds.r1",
+"cat": "remind",
+"text": "Keep it smooth. Press into your forearm and stay long.",
+"energy": "mid",
+"ex": "side-plank-holds"
+},
+{
+"id": "side-plank-holds.r2",
+"cat": "remind",
+"text": "Stay with it. Breathe slowly and keep your hips lifted.",
+"energy": "mid",
+"ex": "side-plank-holds"
+},
+{
+"id": "side-plank-holds.r3",
+"cat": "remind",
+"text": "Nice, and remember, stack your feet and lift your hips high.",
+"energy": "mid",
+"ex": "side-plank-holds"
+},
+{
+"id": "russian-twists.i1",
+"cat": "intro",
+"text": "Up next: Russian twists! Lean back a little, chest proud.",
+"energy": "mid",
+"ex": "russian-twists"
+},
+{
+"id": "russian-twists.i2",
+"cat": "intro",
+"text": "Next up, Russian twists! Rotate your whole torso from side to side.",
+"energy": "mid",
+"ex": "russian-twists"
+},
+{
+"id": "russian-twists.i3",
+"cat": "intro",
+"text": "Alright, Russian twists! Tap the floor beside you each time.",
+"energy": "mid",
+"ex": "russian-twists"
+},
+{
+"id": "russian-twists.i4",
+"cat": "intro",
+"text": "Coming up, Russian twists! Lean back a little, chest proud. Tap the floor beside you each time.",
+"energy": "mid",
+"ex": "russian-twists"
+},
+{
+"id": "russian-twists.n1",
+"cat": "name",
+"text": "Up next: Russian twists!",
+"energy": "mid",
+"ex": "russian-twists"
+},
+{
+"id": "russian-twists.n2",
+"cat": "name",
+"text": "Alright, Russian twists!",
+"energy": "mid",
+"ex": "russian-twists"
+},
+{
+"id": "russian-twists.r1",
+"cat": "remind",
+"text": "Keep it smooth. Rotate your whole torso from side to side.",
+"energy": "mid",
+"ex": "russian-twists"
+},
+{
+"id": "russian-twists.r2",
+"cat": "remind",
+"text": "Stay with it. Tap the floor beside you each time.",
+"energy": "mid",
+"ex": "russian-twists"
+},
+{
+"id": "russian-twists.r3",
+"cat": "remind",
+"text": "Nice, and remember, lean back a little, chest proud.",
+"energy": "mid",
+"ex": "russian-twists"
+},
+{
+"id": "flutter-kicks.i1",
+"cat": "intro",
+"text": "Next up, Flutter kicks! Lower back pressed into the floor.",
+"energy": "mid",
+"ex": "flutter-kicks"
+},
+{
+"id": "flutter-kicks.i2",
+"cat": "intro",
+"text": "Alright, Flutter kicks! Small, quick kicks with your legs long.",
+"energy": "mid",
+"ex": "flutter-kicks"
+},
+{
+"id": "flutter-kicks.i3",
+"cat": "intro",
+"text": "Coming up, Flutter kicks! Keep your core tight and your neck relaxed.",
+"energy": "mid",
+"ex": "flutter-kicks"
+},
+{
+"id": "flutter-kicks.i4",
+"cat": "intro",
+"text": "Time for Flutter kicks! Lower back pressed into the floor. Keep your core tight and your neck relaxed.",
+"energy": "mid",
+"ex": "flutter-kicks"
+},
+{
+"id": "flutter-kicks.n1",
+"cat": "name",
+"text": "Next up, Flutter kicks!",
+"energy": "mid",
+"ex": "flutter-kicks"
+},
+{
+"id": "flutter-kicks.n2",
+"cat": "name",
+"text": "Alright, Flutter kicks!",
+"energy": "mid",
+"ex": "flutter-kicks"
+},
+{
+"id": "flutter-kicks.r1",
+"cat": "remind",
+"text": "Keep it smooth. Small, quick kicks with your legs long.",
+"energy": "mid",
+"ex": "flutter-kicks"
+},
+{
+"id": "flutter-kicks.r2",
+"cat": "remind",
+"text": "Stay with it. Keep your core tight and your neck relaxed.",
+"energy": "mid",
+"ex": "flutter-kicks"
+},
+{
+"id": "flutter-kicks.r3",
+"cat": "remind",
+"text": "Nice, and remember, lower back pressed into the floor.",
+"energy": "mid",
+"ex": "flutter-kicks"
+},
+{
+"id": "bicycle-crunches.i1",
+"cat": "intro",
+"text": "Alright, Bicycle crunches! Opposite elbow to opposite knee.",
+"energy": "mid",
+"ex": "bicycle-crunches"
+},
+{
+"id": "bicycle-crunches.i2",
+"cat": "intro",
+"text": "Coming up, Bicycle crunches! Slow and controlled, no yanking your neck.",
+"energy": "mid",
+"ex": "bicycle-crunches"
+},
+{
+"id": "bicycle-crunches.i3",
+"cat": "intro",
+"text": "Time for Bicycle crunches! Extend the other leg all the way out.",
+"energy": "mid",
+"ex": "bicycle-crunches"
+},
+{
+"id": "bicycle-crunches.i4",
+"cat": "intro",
+"text": "Get ready for Bicycle crunches! Opposite elbow to opposite knee. Extend the other leg all the way out.",
+"energy": "mid",
+"ex": "bicycle-crunches"
+},
+{
+"id": "bicycle-crunches.n1",
+"cat": "name",
+"text": "Up next: Bicycle crunches!",
+"energy": "mid",
+"ex": "bicycle-crunches"
+},
+{
+"id": "bicycle-crunches.n2",
+"cat": "name",
+"text": "Coming up, Bicycle crunches!",
+"energy": "mid",
+"ex": "bicycle-crunches"
+},
+{
+"id": "bicycle-crunches.r1",
+"cat": "remind",
+"text": "Keep it smooth. Slow and controlled, no yanking your neck.",
+"energy": "mid",
+"ex": "bicycle-crunches"
+},
+{
+"id": "bicycle-crunches.r2",
+"cat": "remind",
+"text": "Stay with it. Extend the other leg all the way out.",
+"energy": "mid",
+"ex": "bicycle-crunches"
+},
+{
+"id": "bicycle-crunches.r3",
+"cat": "remind",
+"text": "Nice, and remember, opposite elbow to opposite knee.",
+"energy": "mid",
+"ex": "bicycle-crunches"
+},
+{
+"id": "dead-bugs.i1",
+"cat": "intro",
+"text": "Coming up, Dead bugs! Lower back glued to the floor.",
+"energy": "mid",
+"ex": "dead-bugs"
+},
+{
+"id": "dead-bugs.i2",
+"cat": "intro",
+"text": "Time for Dead bugs! Opposite arm and leg, nice and slow.",
+"energy": "mid",
+"ex": "dead-bugs"
+},
+{
+"id": "dead-bugs.i3",
+"cat": "intro",
+"text": "Get ready for Dead bugs! Breathe out as you reach.",
+"energy": "mid",
+"ex": "dead-bugs"
+},
+{
+"id": "dead-bugs.i4",
+"cat": "intro",
+"text": "Up next: Dead bugs! Lower back glued to the floor. Breathe out as you reach.",
+"energy": "mid",
+"ex": "dead-bugs"
+},
+{
+"id": "dead-bugs.n1",
+"cat": "name",
+"text": "Next up, Dead bugs!",
+"energy": "mid",
+"ex": "dead-bugs"
+},
+{
+"id": "dead-bugs.n2",
+"cat": "name",
+"text": "Coming up, Dead bugs!",
+"energy": "mid",
+"ex": "dead-bugs"
+},
+{
+"id": "dead-bugs.r1",
+"cat": "remind",
+"text": "Keep it smooth. Opposite arm and leg, nice and slow.",
+"energy": "mid",
+"ex": "dead-bugs"
+},
+{
+"id": "dead-bugs.r2",
+"cat": "remind",
+"text": "Stay with it. Breathe out as you reach.",
+"energy": "mid",
+"ex": "dead-bugs"
+},
+{
+"id": "dead-bugs.r3",
+"cat": "remind",
+"text": "Nice, and remember, lower back glued to the floor.",
+"energy": "mid",
+"ex": "dead-bugs"
+},
+{
+"id": "superman-holds.i1",
+"cat": "intro",
+"text": "Time for Superman holds! Squeeze your glutes and lift your arms and legs.",
+"energy": "mid",
+"ex": "superman-holds"
+},
+{
+"id": "superman-holds.i2",
+"cat": "intro",
+"text": "Get ready for Superman holds! Look at the floor and keep your neck long.",
+"energy": "mid",
+"ex": "superman-holds"
+},
+{
+"id": "superman-holds.i3",
+"cat": "intro",
+"text": "Up next: Superman holds! Breathe steady and hold it strong.",
+"energy": "mid",
+"ex": "superman-holds"
+},
+{
+"id": "superman-holds.i4",
+"cat": "intro",
+"text": "Next up, Superman holds! Squeeze your glutes and lift your arms and legs. Breathe steady and hold it strong.",
+"energy": "mid",
+"ex": "superman-holds"
+},
+{
+"id": "superman-holds.n1",
+"cat": "name",
+"text": "Up next: Superman holds!",
+"energy": "mid",
+"ex": "superman-holds"
+},
+{
+"id": "superman-holds.n2",
+"cat": "name",
+"text": "Alright, Superman holds!",
+"energy": "mid",
+"ex": "superman-holds"
+},
+{
+"id": "superman-holds.r1",
+"cat": "remind",
+"text": "Keep it smooth. Look at the floor and keep your neck long.",
+"energy": "mid",
+"ex": "superman-holds"
+},
+{
+"id": "superman-holds.r2",
+"cat": "remind",
+"text": "Stay with it. Breathe steady and hold it strong.",
+"energy": "mid",
+"ex": "superman-holds"
+},
+{
+"id": "superman-holds.r3",
+"cat": "remind",
+"text": "Nice, and remember, squeeze your glutes and lift your arms and legs.",
+"energy": "mid",
+"ex": "superman-holds"
+},
+{
+"id": "renegade-rows.i1",
+"cat": "intro",
+"text": "Get ready for Renegade rows! Wide feet, brace hard, row one elbow back.",
+"energy": "mid",
+"ex": "renegade-rows"
+},
+{
+"id": "renegade-rows.i2",
+"cat": "intro",
+"text": "Up next: Renegade rows! Keep your hips level with the floor.",
+"energy": "mid",
+"ex": "renegade-rows"
+},
+{
+"id": "renegade-rows.i3",
+"cat": "intro",
+"text": "Next up, Renegade rows! Squeeze your shoulder blade and lower slowly.",
+"energy": "mid",
+"ex": "renegade-rows"
+},
+{
+"id": "renegade-rows.i4",
+"cat": "intro",
+"text": "Alright, Renegade rows! Wide feet, brace hard, row one elbow back. Squeeze your shoulder blade and lower slowly.",
+"energy": "mid",
+"ex": "renegade-rows"
+},
+{
+"id": "renegade-rows.n1",
+"cat": "name",
+"text": "Next up, Renegade rows!",
+"energy": "mid",
+"ex": "renegade-rows"
+},
+{
+"id": "renegade-rows.n2",
+"cat": "name",
+"text": "Alright, Renegade rows!",
+"energy": "mid",
+"ex": "renegade-rows"
+},
+{
+"id": "renegade-rows.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your hips level with the floor.",
+"energy": "mid",
+"ex": "renegade-rows"
+},
+{
+"id": "renegade-rows.r2",
+"cat": "remind",
+"text": "Stay with it. Squeeze your shoulder blade and lower slowly.",
+"energy": "mid",
+"ex": "renegade-rows"
+},
+{
+"id": "renegade-rows.r3",
+"cat": "remind",
+"text": "Nice, and remember, wide feet, brace hard, row one elbow back.",
+"energy": "mid",
+"ex": "renegade-rows"
+},
+{
+"id": "dumbbell-suitcase-carries.i1",
+"cat": "intro",
+"text": "Up next: Dumbbell suitcase carries! Stand tall and don't lean to the side.",
+"energy": "mid",
+"ex": "dumbbell-suitcase-carries"
+},
+{
+"id": "dumbbell-suitcase-carries.i2",
+"cat": "intro",
+"text": "Next up, Dumbbell suitcase carries! Shoulders level, core tight, walk steady.",
+"energy": "mid",
+"ex": "dumbbell-suitcase-carries"
+},
+{
+"id": "dumbbell-suitcase-carries.i3",
+"cat": "intro",
+"text": "Alright, Dumbbell suitcase carries! Smooth, even steps and an easy breath.",
+"energy": "mid",
+"ex": "dumbbell-suitcase-carries"
+},
+{
+"id": "dumbbell-suitcase-carries.i4",
+"cat": "intro",
+"text": "Coming up, Dumbbell suitcase carries! Stand tall and don't lean to the side. Smooth, even steps and an easy breath.",
+"energy": "mid",
+"ex": "dumbbell-suitcase-carries"
+},
+{
+"id": "dumbbell-suitcase-carries.n1",
+"cat": "name",
+"text": "Up next: Dumbbell suitcase carries!",
+"energy": "mid",
+"ex": "dumbbell-suitcase-carries"
+},
+{
+"id": "dumbbell-suitcase-carries.n2",
+"cat": "name",
+"text": "Coming up, Dumbbell suitcase carries!",
+"energy": "mid",
+"ex": "dumbbell-suitcase-carries"
+},
+{
+"id": "dumbbell-suitcase-carries.r1",
+"cat": "remind",
+"text": "Keep it smooth. Shoulders level, core tight, walk steady.",
+"energy": "mid",
+"ex": "dumbbell-suitcase-carries"
+},
+{
+"id": "dumbbell-suitcase-carries.r2",
+"cat": "remind",
+"text": "Stay with it. Smooth, even steps and an easy breath.",
+"energy": "mid",
+"ex": "dumbbell-suitcase-carries"
+},
+{
+"id": "dumbbell-suitcase-carries.r3",
+"cat": "remind",
+"text": "Nice, and remember, stand tall and don't lean to the side.",
+"energy": "mid",
+"ex": "dumbbell-suitcase-carries"
+},
+{
+"id": "reverse-lunges.i1",
+"cat": "intro",
+"text": "Next up, Reverse lunges! Step back and lower your back knee toward the floor.",
+"energy": "mid",
+"ex": "reverse-lunges"
+},
+{
+"id": "reverse-lunges.i2",
+"cat": "intro",
+"text": "Alright, Reverse lunges! Keep your chest tall and your front heel planted.",
+"energy": "mid",
+"ex": "reverse-lunges"
+},
+{
+"id": "reverse-lunges.i3",
+"cat": "intro",
+"text": "Coming up, Reverse lunges! Drive through the front foot to stand.",
+"energy": "mid",
+"ex": "reverse-lunges"
+},
+{
+"id": "reverse-lunges.i4",
+"cat": "intro",
+"text": "Time for Reverse lunges! Step back and lower your back knee toward the floor. Drive through the front foot to stand.",
+"energy": "mid",
+"ex": "reverse-lunges"
+},
+{
+"id": "reverse-lunges.n1",
+"cat": "name",
+"text": "Next up, Reverse lunges!",
+"energy": "mid",
+"ex": "reverse-lunges"
+},
+{
+"id": "reverse-lunges.n2",
+"cat": "name",
+"text": "Coming up, Reverse lunges!",
+"energy": "mid",
+"ex": "reverse-lunges"
+},
+{
+"id": "reverse-lunges.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your chest tall and your front heel planted.",
+"energy": "mid",
+"ex": "reverse-lunges"
+},
+{
+"id": "reverse-lunges.r2",
+"cat": "remind",
+"text": "Stay with it. Drive through the front foot to stand.",
+"energy": "mid",
+"ex": "reverse-lunges"
+},
+{
+"id": "reverse-lunges.r3",
+"cat": "remind",
+"text": "Nice, and remember, step back and lower your back knee toward the floor.",
+"energy": "mid",
+"ex": "reverse-lunges"
+},
+{
+"id": "jumping-lunges.i1",
+"cat": "intro",
+"text": "Alright, Jumping lunges! Switch legs in the air and land soft.",
+"energy": "mid",
+"ex": "jumping-lunges"
+},
+{
+"id": "jumping-lunges.i2",
+"cat": "intro",
+"text": "Coming up, Jumping lunges! Keep your chest up and your core tight.",
+"energy": "mid",
+"ex": "jumping-lunges"
+},
+{
+"id": "jumping-lunges.i3",
+"cat": "intro",
+"text": "Time for Jumping lunges! Quick and light, find the rhythm.",
+"energy": "mid",
+"ex": "jumping-lunges"
+},
+{
+"id": "jumping-lunges.i4",
+"cat": "intro",
+"text": "Get ready for Jumping lunges! Switch legs in the air and land soft. Quick and light, find the rhythm.",
+"energy": "mid",
+"ex": "jumping-lunges"
+},
+{
+"id": "jumping-lunges.n1",
+"cat": "name",
+"text": "Up next: Jumping lunges!",
+"energy": "mid",
+"ex": "jumping-lunges"
+},
+{
+"id": "jumping-lunges.n2",
+"cat": "name",
+"text": "Alright, Jumping lunges!",
+"energy": "mid",
+"ex": "jumping-lunges"
+},
+{
+"id": "jumping-lunges.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your chest up and your core tight.",
+"energy": "mid",
+"ex": "jumping-lunges"
+},
+{
+"id": "jumping-lunges.r2",
+"cat": "remind",
+"text": "Stay with it. Quick and light, find the rhythm.",
+"energy": "mid",
+"ex": "jumping-lunges"
+},
+{
+"id": "jumping-lunges.r3",
+"cat": "remind",
+"text": "Nice, and remember, switch legs in the air and land soft.",
+"energy": "mid",
+"ex": "jumping-lunges"
+},
+{
+"id": "jump-squats.i1",
+"cat": "intro",
+"text": "Coming up, Jump squats! Swing your arms to help you jump.",
+"energy": "mid",
+"ex": "jump-squats"
+},
+{
+"id": "jump-squats.i2",
+"cat": "intro",
+"text": "Time for Jump squats! Land softly through your whole foot.",
+"energy": "mid",
+"ex": "jump-squats"
+},
+{
+"id": "jump-squats.i3",
+"cat": "intro",
+"text": "Get ready for Jump squats! Reset your stance before the next jump.",
+"energy": "mid",
+"ex": "jump-squats"
+},
+{
+"id": "jump-squats.i4",
+"cat": "intro",
+"text": "Up next: Jump squats! Swing your arms to help you jump. Reset your stance before the next jump.",
+"energy": "mid",
+"ex": "jump-squats"
+},
+{
+"id": "jump-squats.n1",
+"cat": "name",
+"text": "Next up, Jump squats!",
+"energy": "mid",
+"ex": "jump-squats"
+},
+{
+"id": "jump-squats.n2",
+"cat": "name",
+"text": "Alright, Jump squats!",
+"energy": "mid",
+"ex": "jump-squats"
+},
+{
+"id": "jump-squats.r1",
+"cat": "remind",
+"text": "Keep it smooth. Land softly through your whole foot.",
+"energy": "mid",
+"ex": "jump-squats"
+},
+{
+"id": "jump-squats.r2",
+"cat": "remind",
+"text": "Stay with it. Reset your stance before the next jump.",
+"energy": "mid",
+"ex": "jump-squats"
+},
+{
+"id": "jump-squats.r3",
+"cat": "remind",
+"text": "Nice, and remember, swing your arms to help you jump.",
+"energy": "mid",
+"ex": "jump-squats"
+},
+{
+"id": "curtsy-lunges.i1",
+"cat": "intro",
+"text": "Time for Curtsy lunges! Step back and across, like a curtsy.",
+"energy": "mid",
+"ex": "curtsy-lunges"
+},
+{
+"id": "curtsy-lunges.i2",
+"cat": "intro",
+"text": "Get ready for Curtsy lunges! Keep your chest tall and your hips level.",
+"energy": "mid",
+"ex": "curtsy-lunges"
+},
+{
+"id": "curtsy-lunges.i3",
+"cat": "intro",
+"text": "Up next: Curtsy lunges! Drive through the front heel to stand.",
+"energy": "mid",
+"ex": "curtsy-lunges"
+},
+{
+"id": "curtsy-lunges.i4",
+"cat": "intro",
+"text": "Next up, Curtsy lunges! Step back and across, like a curtsy. Drive through the front heel to stand.",
+"energy": "mid",
+"ex": "curtsy-lunges"
+},
+{
+"id": "curtsy-lunges.n1",
+"cat": "name",
+"text": "Up next: Curtsy lunges!",
+"energy": "mid",
+"ex": "curtsy-lunges"
+},
+{
+"id": "curtsy-lunges.n2",
+"cat": "name",
+"text": "Coming up, Curtsy lunges!",
+"energy": "mid",
+"ex": "curtsy-lunges"
+},
+{
+"id": "curtsy-lunges.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your chest tall and your hips level.",
+"energy": "mid",
+"ex": "curtsy-lunges"
+},
+{
+"id": "curtsy-lunges.r2",
+"cat": "remind",
+"text": "Stay with it. Drive through the front heel to stand.",
+"energy": "mid",
+"ex": "curtsy-lunges"
+},
+{
+"id": "curtsy-lunges.r3",
+"cat": "remind",
+"text": "Nice, and remember, step back and across, like a curtsy.",
+"energy": "mid",
+"ex": "curtsy-lunges"
+},
+{
+"id": "lateral-lunges.i1",
+"cat": "intro",
+"text": "Get ready for Lateral lunges! Step wide to the side and sit back into that hip.",
+"energy": "mid",
+"ex": "lateral-lunges"
+},
+{
+"id": "lateral-lunges.i2",
+"cat": "intro",
+"text": "Up next: Lateral lunges! Keep the other leg straight, toes forward.",
+"energy": "mid",
+"ex": "lateral-lunges"
+},
+{
+"id": "lateral-lunges.i3",
+"cat": "intro",
+"text": "Next up, Lateral lunges! Push off the bent leg to come back.",
+"energy": "mid",
+"ex": "lateral-lunges"
+},
+{
+"id": "lateral-lunges.i4",
+"cat": "intro",
+"text": "Alright, Lateral lunges! Step wide to the side and sit back into that hip. Push off the bent leg to come back.",
+"energy": "mid",
+"ex": "lateral-lunges"
+},
+{
+"id": "lateral-lunges.n1",
+"cat": "name",
+"text": "Next up, Lateral lunges!",
+"energy": "mid",
+"ex": "lateral-lunges"
+},
+{
+"id": "lateral-lunges.n2",
+"cat": "name",
+"text": "Coming up, Lateral lunges!",
+"energy": "mid",
+"ex": "lateral-lunges"
+},
+{
+"id": "lateral-lunges.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep the other leg straight, toes forward.",
+"energy": "mid",
+"ex": "lateral-lunges"
+},
+{
+"id": "lateral-lunges.r2",
+"cat": "remind",
+"text": "Stay with it. Push off the bent leg to come back.",
+"energy": "mid",
+"ex": "lateral-lunges"
+},
+{
+"id": "lateral-lunges.r3",
+"cat": "remind",
+"text": "Nice, and remember, step wide to the side and sit back into that hip.",
+"energy": "mid",
+"ex": "lateral-lunges"
+},
+{
+"id": "single-leg-glute-bridges.i1",
+"cat": "intro",
+"text": "Up next: Single-leg glute bridges! Heel close to your hips, drive up through it.",
+"energy": "mid",
+"ex": "single-leg-glute-bridges"
+},
+{
+"id": "single-leg-glute-bridges.i2",
+"cat": "intro",
+"text": "Next up, Single-leg glute bridges! Lift one leg and keep your hips level.",
+"energy": "mid",
+"ex": "single-leg-glute-bridges"
+},
+{
+"id": "single-leg-glute-bridges.i3",
+"cat": "intro",
+"text": "Alright, Single-leg glute bridges! Squeeze your glute at the top.",
+"energy": "mid",
+"ex": "single-leg-glute-bridges"
+},
+{
+"id": "single-leg-glute-bridges.i4",
+"cat": "intro",
+"text": "Coming up, Single-leg glute bridges! Heel close to your hips, drive up through it. Squeeze your glute at the top.",
+"energy": "mid",
+"ex": "single-leg-glute-bridges"
+},
+{
+"id": "single-leg-glute-bridges.n1",
+"cat": "name",
+"text": "Up next: Single-leg glute bridges!",
+"energy": "mid",
+"ex": "single-leg-glute-bridges"
+},
+{
+"id": "single-leg-glute-bridges.n2",
+"cat": "name",
+"text": "Alright, Single-leg glute bridges!",
+"energy": "mid",
+"ex": "single-leg-glute-bridges"
+},
+{
+"id": "single-leg-glute-bridges.r1",
+"cat": "remind",
+"text": "Keep it smooth. Lift one leg and keep your hips level.",
+"energy": "mid",
+"ex": "single-leg-glute-bridges"
+},
+{
+"id": "single-leg-glute-bridges.r2",
+"cat": "remind",
+"text": "Stay with it. Squeeze your glute at the top.",
+"energy": "mid",
+"ex": "single-leg-glute-bridges"
+},
+{
+"id": "single-leg-glute-bridges.r3",
+"cat": "remind",
+"text": "Nice, and remember, heel close to your hips, drive up through it.",
+"energy": "mid",
+"ex": "single-leg-glute-bridges"
+},
+{
+"id": "broad-jumps.i1",
+"cat": "intro",
+"text": "Next up, Broad jumps! Swing your arms and jump forward as far as you can.",
+"energy": "mid",
+"ex": "broad-jumps"
+},
+{
+"id": "broad-jumps.i2",
+"cat": "intro",
+"text": "Alright, Broad jumps! Land softly with your knees bent.",
+"energy": "mid",
+"ex": "broad-jumps"
+},
+{
+"id": "broad-jumps.i3",
+"cat": "intro",
+"text": "Coming up, Broad jumps! Reset, then jump again.",
+"energy": "mid",
+"ex": "broad-jumps"
+},
+{
+"id": "broad-jumps.i4",
+"cat": "intro",
+"text": "Time for Broad jumps! Swing your arms and jump forward as far as you can. Reset, then jump again.",
+"energy": "mid",
+"ex": "broad-jumps"
+},
+{
+"id": "broad-jumps.n1",
+"cat": "name",
+"text": "Next up, Broad jumps!",
+"energy": "mid",
+"ex": "broad-jumps"
+},
+{
+"id": "broad-jumps.n2",
+"cat": "name",
+"text": "Alright, Broad jumps!",
+"energy": "mid",
+"ex": "broad-jumps"
+},
+{
+"id": "broad-jumps.r1",
+"cat": "remind",
+"text": "Keep it smooth. Land softly with your knees bent.",
+"energy": "mid",
+"ex": "broad-jumps"
+},
+{
+"id": "broad-jumps.r2",
+"cat": "remind",
+"text": "Stay with it. Reset, then jump again.",
+"energy": "mid",
+"ex": "broad-jumps"
+},
+{
+"id": "broad-jumps.r3",
+"cat": "remind",
+"text": "Nice, and remember, swing your arms and jump forward as far as you can.",
+"energy": "mid",
+"ex": "broad-jumps"
+},
+{
+"id": "dumbbell-goblet-squats.i1",
+"cat": "intro",
+"text": "Alright, Dumbbell goblet squats! Hold the weight at your chest, then sit back and down.",
+"energy": "mid",
+"ex": "dumbbell-goblet-squats"
+},
+{
+"id": "dumbbell-goblet-squats.i2",
+"cat": "intro",
+"text": "Coming up, Dumbbell goblet squats! Keep your chest proud and your elbows inside your knees.",
+"energy": "mid",
+"ex": "dumbbell-goblet-squats"
+},
+{
+"id": "dumbbell-goblet-squats.i3",
+"cat": "intro",
+"text": "Time for Dumbbell goblet squats! Drive up through your heels.",
+"energy": "mid",
+"ex": "dumbbell-goblet-squats"
+},
+{
+"id": "dumbbell-goblet-squats.i4",
+"cat": "intro",
+"text": "Get ready for Dumbbell goblet squats! Hold the weight at your chest, then sit back and down. Drive up through your heels.",
+"energy": "mid",
+"ex": "dumbbell-goblet-squats"
+},
+{
+"id": "dumbbell-goblet-squats.n1",
+"cat": "name",
+"text": "Up next: Dumbbell goblet squats!",
+"energy": "mid",
+"ex": "dumbbell-goblet-squats"
+},
+{
+"id": "dumbbell-goblet-squats.n2",
+"cat": "name",
+"text": "Coming up, Dumbbell goblet squats!",
+"energy": "mid",
+"ex": "dumbbell-goblet-squats"
+},
+{
+"id": "dumbbell-goblet-squats.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your chest proud and your elbows inside your knees.",
+"energy": "mid",
+"ex": "dumbbell-goblet-squats"
+},
+{
+"id": "dumbbell-goblet-squats.r2",
+"cat": "remind",
+"text": "Stay with it. Drive up through your heels.",
+"energy": "mid",
+"ex": "dumbbell-goblet-squats"
+},
+{
+"id": "dumbbell-goblet-squats.r3",
+"cat": "remind",
+"text": "Nice, and remember, hold the weight at your chest, then sit back and down.",
+"energy": "mid",
+"ex": "dumbbell-goblet-squats"
+},
+{
+"id": "dumbbell-reverse-lunges.i1",
+"cat": "intro",
+"text": "Coming up, Dumbbell reverse lunges! Step back with control and lower the back knee.",
+"energy": "mid",
+"ex": "dumbbell-reverse-lunges"
+},
+{
+"id": "dumbbell-reverse-lunges.i2",
+"cat": "intro",
+"text": "Time for Dumbbell reverse lunges! Hold the weights close, chest tall.",
+"energy": "mid",
+"ex": "dumbbell-reverse-lunges"
+},
+{
+"id": "dumbbell-reverse-lunges.i3",
+"cat": "intro",
+"text": "Get ready for Dumbbell reverse lunges! Alternate legs, smooth and controlled.",
+"energy": "mid",
+"ex": "dumbbell-reverse-lunges"
+},
+{
+"id": "dumbbell-reverse-lunges.i4",
+"cat": "intro",
+"text": "Up next: Dumbbell reverse lunges! Step back with control and lower the back knee. Alternate legs, smooth and controlled.",
+"energy": "mid",
+"ex": "dumbbell-reverse-lunges"
+},
+{
+"id": "dumbbell-reverse-lunges.n1",
+"cat": "name",
+"text": "Next up, Dumbbell reverse lunges!",
+"energy": "mid",
+"ex": "dumbbell-reverse-lunges"
+},
+{
+"id": "dumbbell-reverse-lunges.n2",
+"cat": "name",
+"text": "Coming up, Dumbbell reverse lunges!",
+"energy": "mid",
+"ex": "dumbbell-reverse-lunges"
+},
+{
+"id": "dumbbell-reverse-lunges.r1",
+"cat": "remind",
+"text": "Keep it smooth. Hold the weights close, chest tall.",
+"energy": "mid",
+"ex": "dumbbell-reverse-lunges"
+},
+{
+"id": "dumbbell-reverse-lunges.r2",
+"cat": "remind",
+"text": "Stay with it. Alternate legs, smooth and controlled.",
+"energy": "mid",
+"ex": "dumbbell-reverse-lunges"
+},
+{
+"id": "dumbbell-reverse-lunges.r3",
+"cat": "remind",
+"text": "Nice, and remember, step back with control and lower the back knee.",
+"energy": "mid",
+"ex": "dumbbell-reverse-lunges"
+},
+{
+"id": "weighted-step-back-lunges.i1",
+"cat": "intro",
+"text": "Time for Weighted step-back lunges! Step back softly and lower with control.",
+"energy": "mid",
+"ex": "weighted-step-back-lunges"
+},
+{
+"id": "weighted-step-back-lunges.i2",
+"cat": "intro",
+"text": "Get ready for Weighted step-back lunges! Keep your torso tall and your front knee steady.",
+"energy": "mid",
+"ex": "weighted-step-back-lunges"
+},
+{
+"id": "weighted-step-back-lunges.i3",
+"cat": "intro",
+"text": "Up next: Weighted step-back lunges! Press through the front foot to come back up.",
+"energy": "mid",
+"ex": "weighted-step-back-lunges"
+},
+{
+"id": "weighted-step-back-lunges.i4",
+"cat": "intro",
+"text": "Next up, Weighted step-back lunges! Step back softly and lower with control. Press through the front foot to come back up.",
+"energy": "mid",
+"ex": "weighted-step-back-lunges"
+},
+{
+"id": "weighted-step-back-lunges.n1",
+"cat": "name",
+"text": "Up next: Weighted step-back lunges!",
+"energy": "mid",
+"ex": "weighted-step-back-lunges"
+},
+{
+"id": "weighted-step-back-lunges.n2",
+"cat": "name",
+"text": "Alright, Weighted step-back lunges!",
+"energy": "mid",
+"ex": "weighted-step-back-lunges"
+},
+{
+"id": "weighted-step-back-lunges.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your torso tall and your front knee steady.",
+"energy": "mid",
+"ex": "weighted-step-back-lunges"
+},
+{
+"id": "weighted-step-back-lunges.r2",
+"cat": "remind",
+"text": "Stay with it. Press through the front foot to come back up.",
+"energy": "mid",
+"ex": "weighted-step-back-lunges"
+},
+{
+"id": "weighted-step-back-lunges.r3",
+"cat": "remind",
+"text": "Nice, and remember, step back softly and lower with control.",
+"energy": "mid",
+"ex": "weighted-step-back-lunges"
+},
+{
+"id": "dumbbell-deadlifts.i1",
+"cat": "intro",
+"text": "Get ready for Dumbbell deadlifts! Hinge at the hips with the weights close to your legs.",
+"energy": "mid",
+"ex": "dumbbell-deadlifts"
+},
+{
+"id": "dumbbell-deadlifts.i2",
+"cat": "intro",
+"text": "Up next: Dumbbell deadlifts! Keep your back flat and your chest proud.",
+"energy": "mid",
+"ex": "dumbbell-deadlifts"
+},
+{
+"id": "dumbbell-deadlifts.i3",
+"cat": "intro",
+"text": "Next up, Dumbbell deadlifts! Stand tall and squeeze your glutes at the top.",
+"energy": "mid",
+"ex": "dumbbell-deadlifts"
+},
+{
+"id": "dumbbell-deadlifts.i4",
+"cat": "intro",
+"text": "Alright, Dumbbell deadlifts! Hinge at the hips with the weights close to your legs. Stand tall and squeeze your glutes at the top.",
+"energy": "mid",
+"ex": "dumbbell-deadlifts"
+},
+{
+"id": "dumbbell-deadlifts.n1",
+"cat": "name",
+"text": "Next up, Dumbbell deadlifts!",
+"energy": "mid",
+"ex": "dumbbell-deadlifts"
+},
+{
+"id": "dumbbell-deadlifts.n2",
+"cat": "name",
+"text": "Alright, Dumbbell deadlifts!",
+"energy": "mid",
+"ex": "dumbbell-deadlifts"
+},
+{
+"id": "dumbbell-deadlifts.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep your back flat and your chest proud.",
+"energy": "mid",
+"ex": "dumbbell-deadlifts"
+},
+{
+"id": "dumbbell-deadlifts.r2",
+"cat": "remind",
+"text": "Stay with it. Stand tall and squeeze your glutes at the top.",
+"energy": "mid",
+"ex": "dumbbell-deadlifts"
+},
+{
+"id": "dumbbell-deadlifts.r3",
+"cat": "remind",
+"text": "Nice, and remember, hinge at the hips with the weights close to your legs.",
+"energy": "mid",
+"ex": "dumbbell-deadlifts"
+},
+{
+"id": "dumbbell-swings.i1",
+"cat": "intro",
+"text": "Up next: Dumbbell swings! Hike the weight back, then snap your hips forward.",
+"energy": "mid",
+"ex": "dumbbell-swings"
+},
+{
+"id": "dumbbell-swings.i2",
+"cat": "intro",
+"text": "Next up, Dumbbell swings! Let your hips do the work, not your arms.",
+"energy": "mid",
+"ex": "dumbbell-swings"
+},
+{
+"id": "dumbbell-swings.i3",
+"cat": "intro",
+"text": "Alright, Dumbbell swings! Keep your back flat and your core tight.",
+"energy": "mid",
+"ex": "dumbbell-swings"
+},
+{
+"id": "dumbbell-swings.i4",
+"cat": "intro",
+"text": "Coming up, Dumbbell swings! Hike the weight back, then snap your hips forward. Keep your back flat and your core tight.",
+"energy": "mid",
+"ex": "dumbbell-swings"
+},
+{
+"id": "dumbbell-swings.n1",
+"cat": "name",
+"text": "Up next: Dumbbell swings!",
+"energy": "mid",
+"ex": "dumbbell-swings"
+},
+{
+"id": "dumbbell-swings.n2",
+"cat": "name",
+"text": "Coming up, Dumbbell swings!",
+"energy": "mid",
+"ex": "dumbbell-swings"
+},
+{
+"id": "dumbbell-swings.r1",
+"cat": "remind",
+"text": "Keep it smooth. Let your hips do the work, not your arms.",
+"energy": "mid",
+"ex": "dumbbell-swings"
+},
+{
+"id": "dumbbell-swings.r2",
+"cat": "remind",
+"text": "Stay with it. Keep your back flat and your core tight.",
+"energy": "mid",
+"ex": "dumbbell-swings"
+},
+{
+"id": "dumbbell-swings.r3",
+"cat": "remind",
+"text": "Nice, and remember, hike the weight back, then snap your hips forward.",
+"energy": "mid",
+"ex": "dumbbell-swings"
+},
+{
+"id": "dumbbell-romanian-deadlifts.i1",
+"cat": "intro",
+"text": "Next up, Dumbbell Romanian deadlifts! Soft knees and hips back, feel it in your hamstrings.",
+"energy": "mid",
+"ex": "dumbbell-romanian-deadlifts"
+},
+{
+"id": "dumbbell-romanian-deadlifts.i2",
+"cat": "intro",
+"text": "Alright, Dumbbell Romanian deadlifts! Keep the weights close and your back flat.",
+"energy": "mid",
+"ex": "dumbbell-romanian-deadlifts"
+},
+{
+"id": "dumbbell-romanian-deadlifts.i3",
+"cat": "intro",
+"text": "Coming up, Dumbbell Romanian deadlifts! Squeeze your glutes to stand tall.",
+"energy": "mid",
+"ex": "dumbbell-romanian-deadlifts"
+},
+{
+"id": "dumbbell-romanian-deadlifts.i4",
+"cat": "intro",
+"text": "Time for Dumbbell Romanian deadlifts! Soft knees and hips back, feel it in your hamstrings. Squeeze your glutes to stand tall.",
+"energy": "mid",
+"ex": "dumbbell-romanian-deadlifts"
+},
+{
+"id": "dumbbell-romanian-deadlifts.n1",
+"cat": "name",
+"text": "Next up, Dumbbell Romanian deadlifts!",
+"energy": "mid",
+"ex": "dumbbell-romanian-deadlifts"
+},
+{
+"id": "dumbbell-romanian-deadlifts.n2",
+"cat": "name",
+"text": "Coming up, Dumbbell Romanian deadlifts!",
+"energy": "mid",
+"ex": "dumbbell-romanian-deadlifts"
+},
+{
+"id": "dumbbell-romanian-deadlifts.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep the weights close and your back flat.",
+"energy": "mid",
+"ex": "dumbbell-romanian-deadlifts"
+},
+{
+"id": "dumbbell-romanian-deadlifts.r2",
+"cat": "remind",
+"text": "Stay with it. Squeeze your glutes to stand tall.",
+"energy": "mid",
+"ex": "dumbbell-romanian-deadlifts"
+},
+{
+"id": "dumbbell-romanian-deadlifts.r3",
+"cat": "remind",
+"text": "Nice, and remember, soft knees and hips back, feel it in your hamstrings.",
+"energy": "mid",
+"ex": "dumbbell-romanian-deadlifts"
+},
+{
+"id": "single-leg-deadlifts.i1",
+"cat": "intro",
+"text": "Alright, Single-leg deadlifts! Hinge forward and send the back leg behind you.",
+"energy": "mid",
+"ex": "single-leg-deadlifts"
+},
+{
+"id": "single-leg-deadlifts.i2",
+"cat": "intro",
+"text": "Coming up, Single-leg deadlifts! Keep both hips level and your back flat.",
+"energy": "mid",
+"ex": "single-leg-deadlifts"
+},
+{
+"id": "single-leg-deadlifts.i3",
+"cat": "intro",
+"text": "Time for Single-leg deadlifts! Soft knee on the standing leg, eyes on the floor ahead.",
+"energy": "mid",
+"ex": "single-leg-deadlifts"
+},
+{
+"id": "single-leg-deadlifts.i4",
+"cat": "intro",
+"text": "Get ready for Single-leg deadlifts! Hinge forward and send the back leg behind you. Soft knee on the standing leg, eyes on the floor ahead.",
+"energy": "mid",
+"ex": "single-leg-deadlifts"
+},
+{
+"id": "single-leg-deadlifts.n1",
+"cat": "name",
+"text": "Up next: Single-leg deadlifts!",
+"energy": "mid",
+"ex": "single-leg-deadlifts"
+},
+{
+"id": "single-leg-deadlifts.n2",
+"cat": "name",
+"text": "Alright, Single-leg deadlifts!",
+"energy": "mid",
+"ex": "single-leg-deadlifts"
+},
+{
+"id": "single-leg-deadlifts.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep both hips level and your back flat.",
+"energy": "mid",
+"ex": "single-leg-deadlifts"
+},
+{
+"id": "single-leg-deadlifts.r2",
+"cat": "remind",
+"text": "Stay with it. Soft knee on the standing leg, eyes on the floor ahead.",
+"energy": "mid",
+"ex": "single-leg-deadlifts"
+},
+{
+"id": "single-leg-deadlifts.r3",
+"cat": "remind",
+"text": "Nice, and remember, hinge forward and send the back leg behind you.",
+"energy": "mid",
+"ex": "single-leg-deadlifts"
+},
+{
+"id": "cossack-squats.i1",
+"cat": "intro",
+"text": "Coming up, Cossack squats! Feet wide, sink deep into one side.",
+"energy": "mid",
+"ex": "cossack-squats"
+},
+{
+"id": "cossack-squats.i2",
+"cat": "intro",
+"text": "Time for Cossack squats! Keep the other leg straight, toes up.",
+"energy": "mid",
+"ex": "cossack-squats"
+},
+{
+"id": "cossack-squats.i3",
+"cat": "intro",
+"text": "Get ready for Cossack squats! Chest tall, then switch to the other side.",
+"energy": "mid",
+"ex": "cossack-squats"
+},
+{
+"id": "cossack-squats.i4",
+"cat": "intro",
+"text": "Up next: Cossack squats! Feet wide, sink deep into one side. Chest tall, then switch to the other side.",
+"energy": "mid",
+"ex": "cossack-squats"
+},
+{
+"id": "cossack-squats.n1",
+"cat": "name",
+"text": "Next up, Cossack squats!",
+"energy": "mid",
+"ex": "cossack-squats"
+},
+{
+"id": "cossack-squats.n2",
+"cat": "name",
+"text": "Alright, Cossack squats!",
+"energy": "mid",
+"ex": "cossack-squats"
+},
+{
+"id": "cossack-squats.r1",
+"cat": "remind",
+"text": "Keep it smooth. Keep the other leg straight, toes up.",
+"energy": "mid",
+"ex": "cossack-squats"
+},
+{
+"id": "cossack-squats.r2",
+"cat": "remind",
+"text": "Stay with it. Chest tall, then switch to the other side.",
+"energy": "mid",
+"ex": "cossack-squats"
+},
+{
+"id": "cossack-squats.r3",
+"cat": "remind",
+"text": "Nice, and remember, feet wide, sink deep into one side.",
+"energy": "mid",
+"ex": "cossack-squats"
+},
+{
+"id": "g.go.1",
+"cat": "go",
+"text": "Here we go!",
+"energy": "high"
+},
+{
+"id": "g.go.2",
+"cat": "go",
+"text": "Let's move!",
+"energy": "high"
+},
+{
+"id": "g.go.3",
+"cat": "go",
+"text": "Time to work!",
+"energy": "high"
+},
+{
+"id": "g.go.4",
+"cat": "go",
+"text": "And go!",
+"energy": "high"
+},
+{
+"id": "g.go.5",
+"cat": "go",
+"text": "Start strong!",
+"energy": "high"
+},
+{
+"id": "g.go.6",
+"cat": "go",
+"text": "Let's get it!",
+"energy": "high"
+},
+{
+"id": "g.go.7",
+"cat": "go",
+"text": "Showtime. Let's go!",
+"energy": "high"
+},
+{
+"id": "g.go.8",
+"cat": "go",
+"text": "Alright, go!",
+"energy": "high"
+},
+{
+"id": "g.rest.1",
+"cat": "rest",
+"text": "Nice work. Shake it out, slow your breath.",
+"energy": "low"
+},
+{
+"id": "g.rest.2",
+"cat": "rest",
+"text": "Good one. Let your arms hang and breathe deep.",
+"energy": "low"
+},
+{
+"id": "g.rest.3",
+"cat": "rest",
+"text": "That's it. Easy breath, loosen up.",
+"energy": "low"
+},
+{
+"id": "g.rest.4",
+"cat": "rest",
+"text": "Rest now. Breathe in slow, breathe out slower.",
+"energy": "low"
+},
+{
+"id": "g.rest.5",
+"cat": "rest",
+"text": "Well done. Shake out your legs and settle your breath.",
+"energy": "low"
+},
+{
+"id": "g.rest.6",
+"cat": "rest",
+"text": "Nice. Drop your shoulders and take a deep breath.",
+"energy": "low"
+},
+{
+"id": "g.rest.7",
+"cat": "rest",
+"text": "Good effort. Catch your breath, you're doing great.",
+"energy": "low"
+},
+{
+"id": "g.rest.8",
+"cat": "rest",
+"text": "Smooth work. Let your heart rate settle.",
+"energy": "low"
+},
+{
+"id": "g.rest.9",
+"cat": "rest",
+"text": "Recover. Slow breath in through the nose, out through the mouth.",
+"energy": "low"
+},
+{
+"id": "g.rest.10",
+"cat": "rest",
+"text": "Easy now. Roll your shoulders and breathe.",
+"energy": "low"
+},
+{
+"id": "g.half.1",
+"cat": "half",
+"text": "Halfway there. Stay smooth, keep breathing.",
+"energy": "mid"
+},
+{
+"id": "g.half.2",
+"cat": "half",
+"text": "Halfway. Keep it clean, you've got this.",
+"energy": "mid"
+},
+{
+"id": "g.half.3",
+"cat": "half",
+"text": "Right on track. Halfway done.",
+"energy": "mid"
+},
+{
+"id": "g.half.4",
+"cat": "half",
+"text": "Half done. Stay tall and keep moving.",
+"energy": "mid"
+},
+{
+"id": "g.half.5",
+"cat": "half",
+"text": "That's halfway. Stay strong, stay smooth.",
+"energy": "mid"
+},
+{
+"id": "g.half.6",
+"cat": "half",
+"text": "Halfway! Keep the rhythm going, you're doing great.",
+"energy": "mid"
+},
+{
+"id": "g.final.1",
+"cat": "final",
+"text": "Ten seconds. Close it out strong!",
+"energy": "high"
+},
+{
+"id": "g.final.2",
+"cat": "final",
+"text": "Ten to go. Give it everything!",
+"energy": "high"
+},
+{
+"id": "g.final.3",
+"cat": "final",
+"text": "Last ten. Push through!",
+"energy": "high"
+},
+{
+"id": "g.final.4",
+"cat": "final",
+"text": "Ten seconds left. You've got this!",
+"energy": "high"
+},
+{
+"id": "g.final.5",
+"cat": "final",
+"text": "Almost there. Ten seconds, make them count!",
+"energy": "high"
+},
+{
+"id": "g.final.6",
+"cat": "final",
+"text": "Final ten. Finish it off!",
+"energy": "high"
+},
+{
+"id": "g.count.1",
+"cat": "count",
+"text": "Three. Two. One.",
+"energy": "high"
+},
+{
+"id": "g.count.2",
+"cat": "count",
+"text": "Three... two... one.",
+"energy": "high"
+},
+{
+"id": "g.count.3",
+"cat": "count",
+"text": "Three, two, one.",
+"energy": "high"
+},
+{
+"id": "g.count.4",
+"cat": "count",
+"text": "And three, two, one.",
+"energy": "high"
+},
+{
+"id": "g.breakstart.1",
+"cat": "breakstart",
+"text": "That's a circuit down. Grab some water, shake out your legs, and breathe. You earned it.",
+"energy": "low"
+},
+{
+"id": "g.breakstart.2",
+"cat": "breakstart",
+"text": "Circuit complete. Take a drink, stretch it out, enjoy the break.",
+"energy": "low"
+},
+{
+"id": "g.breakstart.3",
+"cat": "breakstart",
+"text": "Nice work. That circuit's done. Water, deep breaths, loosen up.",
+"energy": "low"
+},
+{
+"id": "g.breakstart.4",
+"cat": "breakstart",
+"text": "One circuit done. Take your time, drink some water, let your legs recover.",
+"energy": "low"
+},
+{
+"id": "g.breakstart.5",
+"cat": "breakstart",
+"text": "Great circuit. Breathe deep, shake it out, and get a sip of water.",
+"energy": "low"
+},
+{
+"id": "g.breakstart.6",
+"cat": "breakstart",
+"text": "Circuit finished. Slow your breath and let your body reset.",
+"energy": "low"
+},
+{
+"id": "g.breakend.1",
+"cat": "breakend",
+"text": "Almost time. Shake out your hands and take a deep breath.",
+"energy": "mid"
+},
+{
+"id": "g.breakend.2",
+"cat": "breakend",
+"text": "Break's nearly up. Roll your shoulders and get ready.",
+"energy": "mid"
+},
+{
+"id": "g.breakend.3",
+"cat": "breakend",
+"text": "Back to it soon. Take one more slow breath.",
+"energy": "mid"
+},
+{
+"id": "g.breakend.4",
+"cat": "breakend",
+"text": "Get ready to go again. Stay loose and easy.",
+"energy": "mid"
+},
+{
+"id": "g.breakend.5",
+"cat": "breakend",
+"text": "Last few seconds. Shake it out, you're ready.",
+"energy": "mid"
+},
+{
+"id": "g.warmupstart.1",
+"cat": "warmupstart",
+"text": "Let's begin with a gentle warm-up. Nice and easy, get the body moving.",
+"energy": "low"
+},
+{
+"id": "g.warmupstart.2",
+"cat": "warmupstart",
+"text": "Warm-up time. Ease in, find your breath, and loosen up.",
+"energy": "low"
+},
+{
+"id": "g.warmupstart.3",
+"cat": "warmupstart",
+"text": "Welcome. Let's warm up slowly, nothing rushed.",
+"energy": "low"
+},
+{
+"id": "g.warmupstart.4",
+"cat": "warmupstart",
+"text": "Let's get started. Warm up easy and let your body wake up.",
+"energy": "low"
+},
+{
+"id": "g.cooldown.1",
+"cat": "cooldown",
+"text": "That's the last of the work. Time to cool down. Stand tall, breathe slow, and stretch out your hamstrings and chest.",
+"energy": "low"
+},
+{
+"id": "g.cooldown.2",
+"cat": "cooldown",
+"text": "Cool-down time. Slow your breath, walk it out, and stretch your hamstrings and chest.",
+"energy": "low"
+},
+{
+"id": "g.cooldown.3",
+"cat": "cooldown",
+"text": "Nicely done. Now ease down. Deep breaths, long stretches, let your heart rate settle.",
+"energy": "low"
+},
+{
+"id": "g.cooldown.4",
+"cat": "cooldown",
+"text": "All the hard work is done. Cool down slowly and breathe.",
+"energy": "low"
+},
+{
+"id": "g.complete.1",
+"cat": "complete",
+"text": "And that's the workout. Great job today. Take a slow breath, and be proud of that one.",
+"energy": "mid"
+},
+{
+"id": "g.complete.2",
+"cat": "complete",
+"text": "Done. You showed up and you worked. Well done.",
+"energy": "mid"
+},
+{
+"id": "g.complete.3",
+"cat": "complete",
+"text": "Workout complete. Nice and strong. Enjoy that feeling.",
+"energy": "mid"
+},
+{
+"id": "g.complete.4",
+"cat": "complete",
+"text": "That's a wrap. Great work today, really.",
+"energy": "mid"
+},
+{
+"id": "g.complete.5",
+"cat": "complete",
+"text": "You did it. Take a deep breath, and have a great day.",
+"energy": "mid"
+},
+{
+"id": "g.test.1",
+"cat": "test",
+"text": "Voice is on. Let's have a great workout.",
+"energy": "mid"
+},
+{
+"id": "g.newmix.1",
+"cat": "newmix",
+"text": "Fresh mix. Here's what we've got.",
+"energy": "mid"
+},
+{
+"id": "g.newmix.2",
+"cat": "newmix",
+"text": "New workout, new mix. Here we go.",
+"energy": "mid"
+},
+{
+"id": "g.newmix.3",
+"cat": "newmix",
+"text": "Shuffled. Let's try this one.",
+"energy": "mid"
+}
+]
